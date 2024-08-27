@@ -1,4 +1,4 @@
-RecordCount: 4854
+RecordCount: 5161
 # Dashes:
 # 1x: a-01      (-0x)
 # 1x: a-07      (-2x)
@@ -1346,50 +1346,54 @@ endrepeat
    9,L,J
   20,R,K
   12,J
-  11,K
-   1,L,K
-   1,J
-   5,K,G
-   7,R,K
+  12,K
+  12,J
+   9,K
+  11
    7,R
-   1,R,J,G
-   2,L,J
-   1,L
    1,R
+   1,J
+   1,R,J
+   1
    3,R
-   1,R,J,G
+   2,R
+   1
+   1,J
+   1,R,J
+   1
+   1,R,J
+   1
    1,R,K,G
+   1,R,J,G
   10,R
    1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-   1,R
+  11,R
   40
 
-#lvl_d-09 (1x)
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  21,R
-   1,R,J
-  14,R
-  37,R,K
-  15,R,U,X
-  17,R
-  15,R,U,X
-   4
-  14,R
-   1,K
+#lvl_d-09
+   1
+   2,R
+   5,R,J
+   6,R
+   3,R,J
    8,R
-   5,J,G
-   3
+   1
+   9,R
+   1,R,J,G
+   9,R
+  51,R,J
+  15,L,U,X
+  12
+  12,J
+  12,K
+   4,J
+   7
+   1,J
+   2,L,J
+   3,J
    1,R,K,G
-  10,R
-   7,R,J
-  40,R,D
+   3,R,J,G
+  50,R
   15,R,U,X
   14
    2,R
@@ -1421,7 +1425,6 @@ endrepeat
   10,R
   40
 
-
 #lvl_d-10
    4,R
    1,R,J
@@ -1436,4 +1439,4 @@ endrepeat
    1,D,O
   17
 
-ChapterTime: 2:25.503(8559)
+ChapterTime: 2:25.231(8543)
