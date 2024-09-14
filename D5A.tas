@@ -1,4 +1,4 @@
-RecordCount: 5055
+RecordCount: 5133
 # a-08  2x (-0x) 
 # a-12  0x (-1x)
 # b-00  1x (-0x)
@@ -8,7 +8,7 @@ RecordCount: 5055
 # b-14  0x (-1x)
 # b-16  2x (-0x)
 # c-01b 0x (-1x)
-# c-01c 1x (-0x)
+# c-01c 0x (-1x)
 # c-08b 1x (-0x)
 # d-00  1x (-0x)
 # e-05  1x (+1x)
@@ -701,38 +701,44 @@ AnalogMode,Ignore
   40
 
 #lvl_c-01c
-# 1x
    5,R
    1,R,J
   10,R
-  26,D
-  56,R,U,X
-   9,R,K,G
-  22,R,D
-   6,L,Z
-   1,J,G
-   1,L,K,G
-   8,K
-   1,J
-   8,R,J
-   5,R
-   1,R,J
-  10,R
-   1,R,K,G
-  10,R
-   3,R,J
-   9,R,K,G
-   5,R
+  19,R,D
+  16,R
+   3,R,D
+   2,D
+   1,R,J,G
+  10,R,K,G
+   6,R
+   1
+   3,R,J,G
+   1,L,J
+  11,K,G
    1,R,K
-   1,R
+   5
+   1,R,J
+   1,J
+   1
+   1,J
+  10,R,J
+   6,R,K,G
+   5,R
+   1,R,J
+   5,R
+   4,R,J
+   4,R,K,G
+   5,R
+   2,R,J
   40
 
 #lvl_c-08b
+   1,R,J
   12,R
+   5,L
    1,L
-   3,L,D
-   7,R,D
-   1,R,K,G
+   7,R
+   1,R,J,G
   19,R
    1,R,J
    5,R
@@ -1924,4 +1930,4 @@ EndRepeat
    1,D,O
   18
 
-ChapterTime: 4:17.482(15146)
+ChapterTime: 4:16.632(15096)
