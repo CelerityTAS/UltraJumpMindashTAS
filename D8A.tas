@@ -1,5 +1,5 @@
-RecordCount: 3900
-
+RecordCount: 4220
+# D8A UJ 5x
 # not sure if i remove the "console hearts" command for stull like 100%
 console hearts
 Set ExtendedVariantMode.EveryJumpIsUltra true
@@ -687,58 +687,42 @@ console load 9
    5,R,J
    9,R
    1,G
-  48,J
-   8,L
-  12,J,G
-   7
-   4,R
+   1
+  24,L,J
+  10,L
+   1,R,D
+  16,D
+   2,G
    3
-   3,R
-  28
-# This comes close to saving a dash but ill just make due with this
-#   1,R,G
-#   1,J,G
-#   1,R,K,G
-#   1,R,J,G
-#  27,D
-#  47,D,J
-#   5,R,D,J
-#   1,K
-#   4,R,K
-#   4,K
-#   9,R,K
-#   1,K
-#  99,R,K
-   1,R,G
-   1,R,J,G
+   2,R,J,G
    1,R,K,G
-   5,R,J,G
-   3,R
-  14,R,D,X
-   5,R
+   1,R,J,G
+   1,R
+   1,R,J,G
+  16,R
+   1,R,J
+   5,R,K,G
   40
 
 #lvl_c-01
-   2,R
-   7,R,J
+   5,R,K
    5,R
-   6,R,J
-   2,R
-   1,J
-   5,R,J
+   1,R,J
+   5,R
+   4,R,J
   40
 
 #lvl_c-02
-   8,R
-   7,J
-   3,R,D
-  21,D
-   7,R,D
-   1
-   7,R,J,G
-   1,L,J
+  11,R,J
+  17,R,D
+   1,L,D
+   9,R,D
+   1,R,J,G
+   2,R
+   2,R,J
+   2,L
    1,K,G
-   7
+   5
    1,R
    1,R,J,G
    7,R
@@ -847,6 +831,7 @@ console load 9
   40
 
 #lvl_d-01
+# 1x
    2
    2,L
    1,L,J,G
@@ -908,6 +893,7 @@ console load 9
   40
 
 #lvl_d-02
+# 1x
    3
    2,R
    1,R,J,G
@@ -962,6 +948,7 @@ console load 9
   40
 
 #lvl_d-03
+# 1x
    3
    2,L
    1,L,J,G
@@ -1322,6 +1309,7 @@ console load 9
  171
 
 #lvl_d-08
+# 1x
   71
    5,R
    1,R,J
@@ -1507,8 +1495,9 @@ console load 9
   40
 
 #lvl_space
+# 1x
   83,R,D
   25,D,X
  122,D
 
-ChapterTime: 3:30.086(12358)
+ChapterTime: 3:28.811(12283)
