@@ -1,4 +1,4 @@
-RecordCount: 5109
+RecordCount: 5364
 
 Set ExtendedVariantMode.EveryJumpIsUltra True
 
@@ -490,7 +490,7 @@ console hard 5
   17
 
 #lvl_c-00
-# 1x
+# 0x
  207
    5,L
    1,L,J
@@ -525,26 +525,36 @@ console hard 5
    8,L,D
   18,D
    1,L
-  30,L,D
-   8,L
-   4,L,D
-  15,L,Z
-   2,L
-   1,K
-   2,R
-  24,D
+  31,L,D
+  10,L
+   1,R,D
+   5,G
+   2
+   1,G
+   1,J,G
+  10
+   2,L,D
+   1,D
+   1,L,D
+   1,R,J,G
+   3,K,G
+   5,L,K
+   1,R,J,G
+   4,L
+   8,D
+   1,L,D
+  12,D
   10,L,D
-  21,D
-   1
-  15,R,D
-   5,R
-   3
+  22,D
+  20,R,D
+   2
+   1,D
    1,R,K,G
    1,R,J,G
    1
-   4,R
+   5,R
    1,R,J
-  13,R
+  12,R
    1,R,J
    1
    3,R
@@ -984,4 +994,4 @@ EndRepeat
    6,K,G
  135,L
 
-ChapterTime: 2:10.441(7673)
+ChapterTime: 2:10.730(7690)
