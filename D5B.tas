@@ -1,14 +1,13 @@
-RecordCount: 5364
+RecordCount: 5394
 
 Set ExtendedVariantMode.EveryJumpIsUltra True
 
-# D5B UJ 16x
+# D5B UJ 15x
 # a-01 4x
 # b-07 1x
 # b-03 2x
 # b-08 3x
 # b-09 4x
-# c-00 1x
 # c-02 1x
 
 console hard 5
@@ -490,7 +489,6 @@ console hard 5
   17
 
 #lvl_c-00
-# 0x
  207
    5,L
    1,L,J
@@ -525,11 +523,10 @@ console hard 5
    8,L,D
   18,D
    1,L
-  31,L,D
-  10,L
-   1,R,D
-   5,G
-   2
+  30,L,D
+  11,L
+   1
+   1,R
    1,G
    1,J,G
   10
@@ -994,4 +991,4 @@ EndRepeat
    6,K,G
  135,L
 
-ChapterTime: 2:10.730(7690)
+ChapterTime: 2:10.628(7684)
