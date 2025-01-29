@@ -1,0 +1,117 @@
+# D8C UJ 2x
+RecordCount: 694
+
+console rmx2 9
+console hearts 23
+   1
+
+Set ExtendedVariantMode.EveryJumpIsUltra true
+
+#Start
+  61
+
+#lvl_intro
+   5,R
+   2,R,J
+   9,R
+   1,L,J
+   8,L
+   1,K,G
+   4,L
+   2
+   1,R
+  51,R,J
+   3
+  12,J,G
+  12,K,G
+  21,R,J,G
+ 200
+   1,J
+   1,L
+   1
+   1,L
+   1,R
+  11
+   5,J,G
+   1,L,J
+  17,R,K,G
+   2,R
+   2
+   1,R
+   1,R,J,G
+   2,R,K,G
+   1,R,J
+   1,R,K
+   4,R,J
+   5,R
+   1
+   1,R,J,G
+   1,J
+  40
+
+#lvl_00
+# 1x
+   1
+   2,J
+   7,R
+   1,R,J,G
+   4,R
+   4
+   1,R
+   5
+   1,R,J,G
+   2,J
+   1,R
+   6,R,D,X
+   2,J,G
+  40
+
+#lvl_01
+   3,J
+  10,R,J
+   5,J
+   4
+   5,R
+   1
+   1,R,J,G
+  40
+
+#lvl_02
+# 1x
+   6,R,J
+   7,R
+  28,D
+   7,R,D
+   5,R,J,G
+   5,R
+   3,R,J
+   2,R
+   3,R,J
+  14,R
+   2,K,G
+   5,R,K
+   1,L,K
+  11,L,J
+   4,L
+   1,R
+   1,J
+   4,K,G
+   1
+   7,L
+   7,L,J
+  33,U,G
+   3,R,J
+   3,R,K,G
+  14,R
+   3,R,J
+  18,R
+   4,R,D
+   2,R
+   1,R,J
+   7,R
+   1,R,J,G
+  15,R
+   6,R,U,X
+ 135,L,D
+
+ChapterTime: 0:15.657(921)
