@@ -1,5 +1,5 @@
-RecordCount: 3739
-# 13x
+# D3B UJ 9x
+RecordCount: 4220
 
 console hard 3
    1
@@ -8,7 +8,6 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
 
 #Start
   61
-
 
 #lvl_00 (0)
    5,L
@@ -50,8 +49,7 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    9,R
    1,R,J
    4,J
-   2
-  40
+  42
 
 #lvl_01
    1
@@ -61,22 +59,19 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    4,K
    7,R,K
    1,L,J,G
-   3,J
-   1,J
+   4,J
    1
    4,R
   19,R,D
    3,R,K,G
   40
 
-
 #lvl_02
    4,R,K
    2,R
    5,R,D
    3,R,J
-   3,R
-   1,R
+   4,R
    1,L,K,G
    5,K
    2
@@ -124,7 +119,6 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    8,R
   40
 
-
 #lvl_04
    6,R
   12,L
@@ -151,7 +145,6 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    1,R,K
   10,R
   40
-
 
 #lvl_05
    4,R
@@ -212,7 +205,6 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
   14,R,D
    4,R,J
   40
-
 
 #lvl_06
    1,R,J
@@ -298,7 +290,6 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    7,R
   40
 
-
 #lvl_07
    5,R,K
    3,R
@@ -320,7 +311,6 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    2
    4,R
   40
-
 
 #lvl_08
 # 2x
@@ -376,7 +366,6 @@ EndRepeat
    1,J
   40
 
-
 #lvl_09
    4
    1,R,K,G
@@ -415,7 +404,6 @@ EndRepeat
    3,R,K
    2,R
   40
-
 
 #lvl_10
 # 1x
@@ -475,7 +463,6 @@ EndRepeat
    1,R,J
    2,J
   40
-
 
 #lvl_11
    3,J
@@ -553,7 +540,6 @@ EndRepeat
    1,J
   40
 
-
 #lvl_13
    1,J
    2
@@ -582,7 +568,6 @@ EndRepeat
    9,R
    3,R,J
   40
-
 
 #lvl_14
    9,R,J
@@ -651,7 +636,6 @@ EndRepeat
    1,R
   40
 
-
 #lvl_15
   14,R
   15
@@ -686,7 +670,6 @@ EndRepeat
    1,J
   40
 
-
 #lvl_12
    5,R,J
    1,L,K,G
@@ -716,7 +699,6 @@ EndRepeat
    1,K,G
    1,R,J,G
   10,R,J
-
    1,R,K,G
    1,K
    1
@@ -732,7 +714,6 @@ EndRepeat
   19,R,D
    1,R,J
   40,J
-
 
 #lvl_16
    6,R,J
@@ -753,7 +734,6 @@ EndRepeat
    3,J,G
    1,K
   40
-
 
 #lvl_17
    1,R,K,G
@@ -827,8 +807,8 @@ EndRepeat
   16,R,D
   40
 
-
 #lvl_18
+# 1x
    1,R,D
    1,D
    1,R,D
@@ -851,104 +831,57 @@ EndRepeat
    1,R,J
    4,J
    1,R,J
-  15
-   4,R
-   2
-   1,J
-   1,R,K,G
-   1,R,J,G
-   2,R
+   7,R
+  48
+   8,J
    4
-   5,R
+   6,L
+  36,D
+   1,L,J
+   9,L,D,X
+   4,R,J
+   1,R,K,G
+  11,R
    1,R,J
   14,R
    1,R,J
-  16,R
-   1
-   1,R,J
   14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-  10,R,J
+  25,R,J
   40
 
-
 #lvl_19
-   2,J
-   5
-   5,J
-  19
-  30,R
-   5
-  14,L,D
-  35,L,G
-  26,L,U,G
-  13,L,G
+# 2x
    1
-   1,K
-   1,J,G
-   1,K,G
-  48,R,J
-   7,R,D
-  15,R,X
-  13,R
-   1,L,J
-   7,L
-   1,L,J
-   2,L
-   1,L,J
-   4,L
-   5,L,Z
-   1,R,J
-   6,R
-   1,R,K
    5,R
+  11,R,J
+  15,R,D,X
+   6,R
+   1,R,J
+   1
+   6,R,D,X
   40
 
 #lvl_21
-# 4x
-   9,R
-   1,R,J
-   1,J
-   6,R,D,X
-   1,L,K,G
-  41,R,K
-   3
-  15,R,U,Z
-   7
-  23,R
-  18,R,U,X
-  16,R
-   4
-   3,R
-   2
-  15,R,U,Z
-  39,R
-  11
-   2,L
-   2
-   1,L
-   8
-   3,R
-   9,R,D
-   3,R
-   2
-   1,R,K,G
-   1,R,J,G
-   9,R
-   1,R,J
-  13,R
+  25,R,J,G
+  11,R,D
   40
 
 #lvl_20
    1,R
-   1,R,J
-  14,R
-   9,R,J
-   5,R
    4,R,J
+   4,R
+   2
+   1,K
+   1,J,G
+   5
+   2,J
+   1,L
+   1,J,G
+   3,L
+   6,L,J
+   2,R,J
+   1,G
+   3,J
    1,K
    1,J
   10,L,J
@@ -956,9 +889,9 @@ EndRepeat
   10,R,K
    1,J
   10,L,J
-   5,L,K,G
+   2,L,K,G
   19,L
-  23,L,G
+  18,L,G
    1,L,K,G
    3,R,K
    2,L,K
@@ -994,7 +927,7 @@ EndRepeat
    2,R
    1,L
    1,L,G
-   2,L
+   2
   13,L,G
    1
    1,K
@@ -1011,33 +944,27 @@ EndRepeat
    8,R,D
   40,R
 
-
-
 #lvl_end
-# 3x
-   5,L,D
-   1,L
-   7,L,D
-   2,L
-   2,L,D
-   2,L
-   1,L,D
-   6,L,Z
-   1,R,J
-   6,R
-   4,R,J
-  34,R
-   2,R,K,G
-   5,R
-   1,R,K
+# 2x
+  20,R,D
+ 132
+   4,L
+  11,R
+  35,R,J
+   6,D
+  10,R,D
    4,R
-   1,R,K
-   7,R
-  15,R,Z
-  15,R
-   6,J
-   1,R,J
-  10,R,K,G
- 145,U,X
+   1,R,D
+   1,R
+  13,R,Z
+   4,R,J,G
+   1,J
+   8,R,J
+  12,R,K,G
+   1,R
+  24,L,D
+   4,L,J
+  16,L,U,X
+ 135,L,D
 
-ChapterTime: 1:46.641(6273)
+ChapterTime: 1:43.241(6073)
