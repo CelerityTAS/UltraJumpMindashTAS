@@ -1,4 +1,4 @@
-RecordCount: 8859
+RecordCount: 8862
 
 # 7A UJ 116x (R)
 # -51x Maingame
@@ -2814,7 +2814,7 @@ EndRepeat
   40
 
 #lvl_f-10b
-#3x
+#2x
    3,R,D
    2,R,J
    9,R
@@ -2830,42 +2830,64 @@ EndRepeat
    8
    5,R
    1,R,J,G
-  24,R
-# I tried doing a demojump here but I got nowhere near, like 15 pixels off. Maybe I was missing something though so it may be possible
-   5,R,J,G
-   1,L,J
+  15,R
+   9,R,D
+   1,R,J,G
+   3,R
+   1,R,J
+   2,J
+   1,K
+   4,L
+   3,R
+   2,L
+   2
+   4,L
+   1
+   1,J
    1,L
-   1,L,K,G
-   7
-   1,L,J
-   7
-   8,L
-   5,L,Z
-   1,R,J
-   6,R,K,G
-   5,R
-   4,R,J
-  11,R
-   1
-   2,R
-  13,R,X
    1,J,G
-   1,R,J
+   4,L,J
+   2,J
+   1,R
+   4,R,J,G
    1,L,K,G
-  14,R,K
-  12,J,G
-  12,K,G
-   6,R,J,G
-   1,J
-   4,R
+   1,R,K
+   5,R,J,G
+   5,R
+  32,R,J
+  15,R,U,X
    1
-   1,J
+   8,R
+   1,R,J,G
+   3,R
    3
-   6,L
+   1,K
+  26,L,K
+   2,L
+  11,J,G
+   1
+   1,K
+   3,J,G
+   9,K,G
+  47,R,K
+   2
+   2,J,G
+   1,L,J
+   1,R,J
+  19,R,K,G
+  11,J,G
+   1,L,J
+   1,R,J
+  19,R,K,G
+   2,L,K
+   1,L
+   1,L,J
+  13
+   4,L
 # You could skip this dash if you managed to get enough speed to have roughly ~305 speed at the last pixel of the platform in the next room. I couldn't get anywhere close so I gave up
    5,L,Z
    1,R,J
-   1,R,K,G
+   2,R,K,G
    7,R
   40
 
@@ -4291,4 +4313,4 @@ AnalogMode, Ignore
    1,D,J
   18
 # I followed what maingame did for where the chaptertime is placed
-ChapterTime: 9:27.001(33353)
+ChapterTime: 9:29.619(33507)
