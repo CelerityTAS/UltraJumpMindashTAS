@@ -1,4 +1,4 @@
-RecordCount: 8747
+RecordCount: 8780
 
 # 7A UJ 118x (R)
 # -49x Maingame
@@ -1585,7 +1585,7 @@ EndRepeat
   40
 
 #lvl_d-06
-#3x
+#2x
    1,L
    1,R
    1,R,J,G
@@ -1596,7 +1596,7 @@ EndRepeat
   10,R,D
   16,R,J
   34,R,X
-   7,R,D
+   4,R,D
 ### Demojump attempt
 # Seems impossible even with a perfect dcb but maybe I'm missing something
 #    4,R,J
@@ -1641,37 +1641,36 @@ EndRepeat
    1,R,J
    5,R
    3,R,J
-   8,R
-   6
-# Going down here would take at minimum two dashes (assuming some you could do some weird jump around a spring), which is tied with top route and top route is faster
-   4,R,Z
+  22,R
    1,R,J
-   2
-   1,R,K,G
-   9
+   3,R,K,G
+  11,R
   43
 
 #lvl_d-09
 #1x
-# Maybe its possible to slow down enough to make it in the gap but I couldn't find anything that works
-   1
-   1,D,J
-   1,K,G
+   2,R
    2
-   2,J,G
-# Perhaps the goofiest demojump I've ever tased
-   3,R,J
-   5,R
-   2,R,J
-  13,R
-  10,D,X
+   3,J
+   6,R
+  26
+   3,L
+   5,L,J
+   9,J
+   9,R,U,X
+   4,R,J,G
+   1,L,K,G
+  43,R,K
+  17,R,D
   40
 
 #lvl_d-10
 #0x
-   9,R,D
+   7,R,D
+   2,R
    1,R,J
-  32,R,D
+  30,R,D
+   2,D
    7,R
    3,R,D
    1,R,J,G
@@ -4331,4 +4330,4 @@ AnalogMode, Ignore
    1,D,J
   18
 # I followed what maingame did for where the chaptertime is placed
-ChapterTime: 9:24.706(33218)
+ChapterTime: 9:26.338(33314)
