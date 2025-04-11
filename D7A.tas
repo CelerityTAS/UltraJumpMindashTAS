@@ -1,9 +1,9 @@
-RecordCount: 10930
+RecordCount: 11405
 
-# 7A UJ 116x (R)
-# -51x Maingame
+# 7A UJ 115x (R)
+# -52x Maingame
 # Drafted by Gorb Appreciator
-# Improvements by: Alexa, Madstraw
+# Improvements by: Alexa, Madstraw, blur
 
 #console load 7 3088 -1768
 #play,500M,37
@@ -259,76 +259,58 @@ Set,ExtendedVariantMode.EveryJumpIsUltra,True
    1,D
   20,R,D
   16,R,J,G
-   4,K,G
+   3,K,G
    1,L,K
    1,L,J
-  11,L,K
+  12,L,K
    1,J
-  10,R,J
-   2,J
+   7,K,G
+   3,R,K
+   1,J
+   8,K,G
+   1,L,K
+   2,K
 # Suboptimal climb to setup overclock
-   1,K
-   7,J,G
-   4,L,J
-   1,R,J
-   1,L,J
-   1,K
-   3,J,G
-   1,R
-   6
-   1,R,J,G
-   6,R,K,G
-   3,R
-   1
-   1,R
-   2,R,J
-   7,R
-   1
-   7,R
-   5
-   1,R
-   3,D
-   1,R,J,G
-  65,R,K,G
-   2,R,G
-  11,J,G
-   1,L,J
-# This neutral annoys me but I can't see any way of getting rid of it
-   1,K
-  21,R,K
-  11,J,G
-   1,L,J
-   1,L,K
-  11,L,J
-   1,K,G
-   2,R,K
-   4,L,K
-   1,K
-   1,R,K
-   1
-   2,R
-   1
-   3,R
+   1,L
    1
    1,J
-   1,R,K,G
+   5,R,J
+   4,R
+   2
    1,R,J,G
+   1,R,K,G
+   5,R
+   1,R,J
+  12,R
+  19,R,J,G
+  10,R
+   1
+   7,R,D
+   2,J,G
+   1,L,J
+   4,K,G
+   1,R,K
+   1,L
+   1,J,G
+   5
+   2,R
+   1,R,J
+   1,R,K,G
    9,R
+   1,R,J
   40
 
 #lvl_a-06
 #3x
 # This room is basically maingame
-   1,R
-  25,R,J
+  23,R,J
   61,R
   35,R,U,X
   41
   18,R
   18,L
   15,L,X
-  25,L,D
-   4,L,D
+  29,L,D
   14,L,X
   51,L
   12,J,G
@@ -691,60 +673,45 @@ Set,ExtendedVariantMode.EveryJumpIsUltra,True
   11,J,G
 # Goofy wallboost
   11,R,J
-   9,K,G
-   1,R,K
-   1,K
+   1,K,G
    1,L,K
-  17,R,J,G
-   1,L,J
-   3,R,J
-   5,L,J
-   3,L
-   1,D
-   1,L,D
-   1,D
-   5,L,D
-   1,R,D
-   1,L,J
-   3,R,J
+   1,J
+  24,R,J
+   4,R,K,G
    5,R
-   1,R,J
-   1,L,J
+   4,R,J
    7,R
-   1
-# This dcb is way more precise than it seems. If you are less than around 58 speed you are too slow,and if you are over roughly 64 speed you have to slow down too much and don't make it. I'm sure you could set this up much quicker but I just can't be bothered
-   1,R,J,G
-   1,R,K,G
-   4,R
-   1
-   4,R
-   1,R,D,J
-   3,R
+   3,R,J
   40
 
 #lvl_b-09
 #1x
-  11,R
-  59,R,J
-   1,K
-  25,R,K
-  12,J,G
-  11,K,G
-   1,L,K
-   6,R,J,G
-  12,R,K,G
-   2,J,G
+   3,R,J
+  15,L,J
+   1,G
+   1,J,G
+   1,R,J
    1,L,J
-   4,R,K,G
-   2,L,K
-   6,L,J
+   3,K
+   1
+   8,L,K,G
+   2,G
+   1,J,G
+   5,L,K,G
+   4,K
+   7
+   1,J
+   1,K,G
+   7,K
+   1,J,G
+   5
   78,L,D
 # This dash feels like it ought to be skippable but a max hieght tas jump is still multiple pixels off
   20,L,X
    2
    3,L
    1,L,J,G
-  21,L,D
+  20,L,D
   78,L
   12,J,G
   11,K,G
@@ -1331,8 +1298,7 @@ EndRepeat
    2
    3,R
    1,R,J
-   5,R
-   9,R
+  14,R
    1,L
    1,R
    5,L
@@ -1394,8 +1360,7 @@ EndRepeat
    1,R,J
    1,R,K,G
    1,R,J,G
-   8,R
-   1,R
+   9,R
    4,R,J
    5,R
   23,R,J
@@ -1419,8 +1384,7 @@ EndRepeat
    1,L
    1,R,K,G
    1,R,J,G
-   5,R,J
-   1,R,J
+   6,R,J
    1,R
    1,R,J
    7,R
@@ -1429,8 +1393,7 @@ EndRepeat
    1,R,J,G
    2,R,K,G
 # Demojump by madstraw
-  12,R
-   1,R
+  13,R
    1
    3,R,J
    3,J
@@ -1813,8 +1776,7 @@ EndRepeat
    3
    4,R
    1,J
-   1,R
-   3,R
+   4,R
    1
    2,R,J,G
    6,L,J
@@ -2014,100 +1976,86 @@ EndRepeat
    1,R,J
    4,R
    1,R,J
-  18,R
-   5,R,J
-   6,R
-   3,R,J,G
-  47,R,D
-   1,J
-   9,R,J
-   6,R
+   5,R
+  13
+   8,J
+  24,D
    1,L
-   1,J,G
-  10,L,J
+   3,D
+   7,L,D
+   2,D
+   3,R,G
+   4,Z
    1,R,J
-   1,K
-  11,L,K
+   3,R
+  20,R,J
    1,J
-  11,L,J
-  12,K
-  12,J,G
-   3,K,G
+  12,R,J
+   1,R,K,G
+  12,R
+   1
+   7,R,D
+   1,R,J,G
+   1,L,J
+  11,K,G
    1,R,K
-   4,L,J,G
-   1,K
-   7,J,G
-  40,R,J
-# Very tight cycle
-  10,R,D
+   9,J,G
+   1,L,J
+   7,K
+   1,J
    1,R,J
-  14,R
-   1,R,J
-   4,R
-   2
-   1,R
-   8,J,G
+   2,J
    2,R,J
-  10,R
-  18,R,J
-  34,R,D
-   1,R,J
-  38,R
-  20,J
-  10,D
-   5,R,D
-  10,R,J
-  13,R
-   9,R,J
-  33,R,D
-   1,R
-   1,R,J
-  14,R
-   6,R,J
+   5,R
+   2
+   1,R,J,G
+   1,R,K,G
+   4,R
   40
 
 #lvl_e-06
 #0x
-   3,R,J
-  20,R
-  37,R,J
-  12,K,G
-   6,R,J,G
-  59,R,D
-   5,R
-   3,R,J
-   1,R
-  15,L,D
-   1,L
-   1,L,D
-   1,L,G
-   1,J,G
-   8
-   1,R
-  21,R,J
-   6,L,K
-  34,L
-   4
-   2,L
-   1
-   1,L
    9,R
-   1,R,D
-   1,R,G
-   9,U,G
-   2,G
-   1,U,G
-   1,R
-# Certifiable ultra jump moment
-   1,R,J,G
+   6,R,J
+   7,R
+   1,G
+  10,J,G
    1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   9,J,G
-   2,R,J
+   1,L
    5,R
+   3
+   1,L
+  36,L,D
+   1,L,D,J
+   1,L
+  10,R
+   2
+   4,R
+   1,G
+   6,U,G
    1
-   1,R
+   1,R,J,G
+   1,K,G
+   5
+   4,R
+   1,D
+   1,L,D
+   4,L,J
+   4,L
+  15,R
+   3,R,D
+# Certifiable ultra jump moment
+   1,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   2,R,J,G
+   9,R,D
+   1,J
+   1
+   2,J
+   8,R,J
    7,R,K,G
    6,J,G
    1,L,J
@@ -2407,8 +2355,7 @@ EndRepeat
    1,R,J,G
    1,K,G
    6,R
-   1,R,J
-   1,R,J
+   2,R,J
    2,L
   31,L,K,G
   37,L,J,G
@@ -2484,10 +2431,12 @@ EndRepeat
 
 #lvl_f-02
 #0x
-  85,R
-  19,D
+  75,R
+   1,R,J
+  20,R,D
+   2,R
    1,J
-   6,L,D
+   6,L
    1,J
   18,D
   12,R,D
@@ -2674,9 +2623,7 @@ EndRepeat
 # You can exit this room way faster, but I slow down to get height to make the cycle in the next room
    7
   14,L,J
-   1,J
-   1,J
-   1,J
+   3,J
    1,L,K,G
    4,R,K
    2,R
@@ -2848,56 +2795,47 @@ EndRepeat
    3,R
    3
    1,K
-  26,L,K
-   2,L
-  11,J,G
-   1
+  28,L,K
+   4,J,G
+   1,L,J
+   1,R,J
+  13,L,K,G
+   2,L,J,G
    1,K
-   3,J,G
-   9,K,G
-  47,R,K
-   2
-   2,J,G
-   1,L,J
-   1,R,J
-  19,R,K,G
-  11,J,G
-   1,L,J
-   1,R,J
-  19,R,K,G
-   2,L,K
-   1,L
-   1,L,J
-  13
-   4,L
-# You could skip this dash if you managed to get enough speed to have roughly ~305 speed at the last pixel of the platform in the next room. I couldn't get anywhere close so I gave up
-   5,L,Z
-   1,R,J
-   2,R,K,G
-   7,R
+   6,J,G
+  28,R,J
+  14,R,X
+   2,R,J,G
+   5,R
+   2,R,J
+   3,R
   40
+
+# You could skip this dash if you managed to get enough speed to have roughly ~305 speed at the last pixel of the platform in the next room. I couldn't get anywhere close so I gave up
 
 #lvl_f-11
 #4x
-   1
-   4,R
-  18,R,J
-   6,J
+  44,R,J
+   1,K,G
+   1,J
+   1,K
+   7,L,K
+   7,R,K
   15,U,X
-   8,R
-   4,J,G
-   2,L,K
-  27
-   1,L
-   1
-   4,L
+   6,R
+   3
+   8,J,G
+   1,K
+  18,L
+   7
+   7,L
    3
    1,L,J,G
    1,L,K,G
    8,L
    1,J
-  18,R,J
-   3,R
+   8,R,J
+  11,L,J
   69,L,D
    4,R,D
   35,R
@@ -2917,21 +2855,30 @@ EndRepeat
    1,L,K,G
   11,L
   34,L,J
-  12,K,G
-  12,J,G
-  11,K,G
-   1,R,K
-   1,R,J
-   9,R,K
-  38,R,U,X
-  42,R,G
-  22,U,G
-   1,G
+  10,K,G
+   3,R,K
+  15,U,X
+   4
+  47,R,J
+   2
+   1,R,J,G
+   7,R
+  21,U,G
+   3,G
+   1,U,G
+   3,G
    1,U,G
    1
-   5,R,J,G
-  12,R,K,G
-  57,L
+   1,R,J,G
+   1,R,K,G
+   7,J,G
+   2,R,J
+   1,J
+   2,K
+  53,L
+   1
+   1,L
+   2
    7,J,G
    1,R,J
    1,L,K,G
@@ -3741,10 +3688,8 @@ EndRepeat
    6,L
    1
   21,L,D
-   1,L
-   1,L
-   1,D
-   1,D
+   2,L
+   2,D
   32,L
 # This cornerkick was so annoying to sync
   17,L,U,X
@@ -4309,4 +4254,4 @@ AnalogMode, Ignore
    1,D,J
   18
 # I followed what maingame did for where the chaptertime is placed
-ChapterTime: 9:26.219(33307)
+ChapterTime: 9:13.826(32578)
