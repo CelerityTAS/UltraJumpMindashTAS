@@ -1,4 +1,4 @@
-RecordCount: 9577
+RecordCount: 10930
 
 # 7A UJ 116x (R)
 # -51x Maingame
@@ -923,20 +923,15 @@ EndRepeat
 
 #lvl_c-03b
 #0x
-  18,R
-   1,R,J
-   9,R
-# You could totally set this up faster but I can't be bothered and resyncing it would be annoying
-   1,J,G
-   1
+  22,R
+   2,L
+   2,R
    1,L
-   1,R,K,G
-   1,R,J,G
-   5,R
-   1,R,J
    1,R
-   1,R,J
-   7,R
+   1,R,D,J
+   1,J
+   2
+   4,R
    1
    1,R
    1,R,J,G
@@ -947,37 +942,28 @@ EndRepeat
 
 #lvl_c-03 (1)
 #2x
-   9,R,J
-   1,R
-   1
-   6,R
-   8,R,J,G
-  15,R
-   1
-  15,R
+   5,R,J
+   1,J
+   3,R,J
+   8,R
+   5,R,K,G
+   5,R
+  10,R,K
+  18,R
    5,R,D
-   1,R,J,G
-   1,J
-   6,R,J
-   1,J
-   5,R
-   2,R,J
-   5,R
-   1,R,J,G
-   5,R
-  32,R,J
-  19,R,U,X
-  11,J,G
-   1,L,J
-# These nuetrals make me very sad but they are necessary to have stamina for the six tile
+   2,R,J,G
+   1,L,K,G
+  14,R,K
+  12,J,G
    1,K
-  24,R,K
+  34,R,X
+   8,R,J
+  32,R,K
    1,J
-  21,R,J
-   1,K
-   7,J,G
-  19,L,J
-   8,R,K,G
+   7,K,G
+  19,L,K
+   8,R,J,G
+   1
   41,R,X
    1,R,J
    3
@@ -4323,4 +4309,4 @@ AnalogMode, Ignore
    1,D,J
   18
 # I followed what maingame did for where the chaptertime is placed
-ChapterTime: 9:27.035(33355)
+ChapterTime: 9:26.219(33307)
