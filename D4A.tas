@@ -1,4 +1,4 @@
-RecordCount: 5161
+RecordCount: 5592
 # Dashes:
 # 1x: a-01      (-0x)
 # 1x: a-07      (-2x)
@@ -27,32 +27,41 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
   10,R
    4
    1,R,J
-   2
-  14,R
-  15,R,J
-   7,R,K,G
-   5,R
-   3,R,K
-   6,R,J,G
-  20,R
+   4
+   3,R
+   1
+   8,R
+  11,R,J
+   3,R
+   3
+   1,R,K,G
+   5,R,J,G
    1,J
-  13
-  13,R
-  27,R,K
-  
-   8,J
-   5
+   1,R
+   1,R
+
+   1,J,G
+  14,R
+  12,L
+   1,L,J
+   5,L
+   6,R
+  26,R,K
+   2,K
+   1,R
+
+  13,J
    2,R,J
-   2,R
+   6,R
    1,R,J
-   5,R
+   1,R
    3
    1,R
    1,R,K,G
    1,R,J,G
-   2,R
+   1,R
    1
-   6,R
+   7,R
    1,R,J
    7,R
   40
@@ -61,20 +70,20 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    7,R
    5,R,J
   15,R,U,X
-#0:04.624(272)
   15,U,C
    8,J
-   4
+   3
+   1,L
    1,K
-   2,R,K
+   1,J
+   1,R
    1,R,J,G
-  10,R
+   9,R
    1,R,J
   14,R
-  26,R,J
+  25,R,J
    4,K
   13,R,J,G
-
    1,K
    2,L,K
    2,K
@@ -99,7 +108,7 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    9,R
    1,R,K,G
    4,K
-   4,J,G
+   4,R,J,G
   35,R,D
    1,R,J
    1,R,K
@@ -141,6 +150,7 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
 
 
 
+#lvl_a-02
    8,R
    2,R,K
    8,R
@@ -220,41 +230,43 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    1,R
    7,R
    1,R,K,G
-   9,R
+   1,R
+   1
+   7,R
    1,R,J
-
-
-   4,R
+   3
+   1
   40
 
 
 #lvl_a-05
-  14,R
-   3,R,D
-   8,R,J
+  11,R
+   1,L,K,G
+   2,R,K
+  11,R
+  11,R,K
+   1
+   8,R
+   1,R,K
+   5,K
+   2,R,K
    5,R
-   1,R,J
+   1,R,K
    1
    1,R
-   8,R,J
-   1
-   4,R
-   1,R,J
-   1
-   1
-  17,J
-   7,R,K,G
-   2,K
-   3,R,J,G
-   1,R,K,G
-   4,R,K
+   1,R,K
+   1,K
+   9,R,K
+   2,R,J,G
+   5,R,K,G
   40
 
+
 #lvl_a-06
-   2
-   3,R
    2,R,K
-  11,J,G
+   7,R
+   7,R,K
+   5,J,G
    1,L,J
    1,K
    5,R,J,G
@@ -262,40 +274,36 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    1,R
    1,R
    1,R,K,G
-   2,R,J,G
-  30,R,K,G
-  24,R,D
-   8,R,D
-   1,R,J
-  14,R
-   1,R,J
-   5,R
-  40
+  24,R,J,G
+  15,R,D
+  11,D
+  11,R,D
+   1,R
 
-#lvl_a-07 (1x)
+   1,R,K,G
    9,R
    1,R,J
-  14,R
+  10,R
+  40
+
+
+#lvl_a-07 (1x)
+   4,R
    1,R,J
   14,R
    1,R,J
   14,R
-   4,R,J
-   5,R
-   1,R,J
-   6,R
-   1,R,G
+   5,R,K
    1,J,G
    1,L,J
    1,R,J
    1,K,G
    5
    5,L,K
-   1,R
+   1,R,K
    1,J,G
    1,L,J
-   3
-   1
+   4
    3,J
    1,R
    1,K,G
@@ -908,19 +916,18 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    1,J,G
    1,K,G
    3
-  21,R
-   3,R
+  24,R
    1
    6,R
    2,R,K,G
-   1,L,J,G
-   2,J
-   9,R
-   4
-   1,L
-  11,K,G
-   6,R,K
-   1,R,J,G
+   5,R
+   4,R,K
+   1,R
+   1,R,K
+   2,R
+   2,R,D
+  12,R,K
+   5,R,J,G
    7,L,J
    2,R,J
    1,R,K,G
@@ -939,10 +946,11 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    1,L,K
    1,J
   20,R,J
-   1,K
-  25,R,K
-   9,L,J
-   2,L
+  11,K,G
+   1,L,K
+   1,J
+  11,L,J
+
   11,R,K
   40
 
@@ -1439,4 +1447,4 @@ endrepeat
    1,D,O
   17
 
-ChapterTime: 2:25.231(8543)
+ChapterTime: 2:24.058(8474)
