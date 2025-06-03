@@ -1,5 +1,5 @@
-# D6A UJ 28x
-RecordCount: 6177
+# D6A UJ 25x
+RecordCount: 6482
 
 console load 6
    1
@@ -549,112 +549,129 @@ AnalogMode, Ignore
    1,R,K,G
    4,R
    8
-   3,R,K,G
+   2,R,J,G
   12,R
+  19,R,J
+   7,U,X
+
+## resync point
+# [13] entry can be from top or from bottom depending on timesave in 12a/12b
+
+  11
    1,R,J
-  16,R,D
-  20,D,X
-   1,L,K,G
-  29,D
-   7,L,D
-  18,R,X
-  13,R,C
-  22,L,D
-  15,D
-   5,L,D
-   3,D
-   1,J
-   1,K
-   1,J,G
-   1
-   1,R,K,G
-   5,R
-   3,R,J,G
-   7,R
-   1,R,K
+   9,R,K
    2,R
+   1,J,G
+   6,R
+   1,R
+   7,R,X
+   1,L,J
+   9,L,D
+  13,D
+   2,L,D
+   1,J
+   1,K,G
+   7
+   1,R
+   1,K,G
    1,R,J,G
+  10,R
+   2,R,J
    5,R
+   1,R,J
+   5,R
+   4,R,J
   40
 
-#lvl_14a
-   9,R,D
+#lvl_14b
+  13,R,J
+   3,R,K,G
+  21,R,J,G
+   8,J
+   1,K,G
+   1,L,K
+   1,L,J
+  12,L,K
+  12,R,J,G
+   3
+   1,K
+   7,J,G
+  36,L,J
+  98,L,D
+  13
   17,R
-  21,R,U,Z
-   5,R,K
-  76,R
-  25,L
-  35,R
-  15,R,K,G
-   7,R,J,G
-   7,R
+  54,L
+   8
+   1,L
+  36,R,D
+   6,L,D
+   1,D
+   1,L,D
+  11,R,D
+   1,R,K,G
+   3,R,J,G
    1,R,K
-  10,R
+   2,R
+   1,R,J
+   3,R
+   2,R
+   1,R,K,G
+   3,R,K,G
   40
 
 #lvl_15
-   4,R
-   3,R,J
-   1,L,J
-   1,R,K
-   7,R
-  27,R,D
-  89,R
+   4,R,K
+  22,R
+   3,L,D,J
   40
 
-#lvl_16a
-  13,R
-   8,R,U
-   8,F,60
-  16,R
-  10,R,D
-  21,R
-   6,R,U
+#lvl_16b
+   1,J
+   5
+  10,L,J
+  10
+   2,R
+  41,R,U
+  32,F,69
+  15,F,48
    1,R
-  50,R,D
-  31,L,U,X
-  22,F,0.1
+  12,R,D
+  21,F,151
+  10,R,U
+  13,F,30
+   4,R,U
+   8,R
+   1,J,G
+   1,R,K,G
   11,R
-   4,F,58
-   7,R
-   4,R,D
-  38,F,110
-  29,R
-   3,U
   40
-
-#lvl_17
-   1,U
-   3,R
-   4,K
-   1,J
-  12,R,J
-   4,R
-   2,R,K,G
-  11,R
-   5,R,J
-   4,R
-   3,K
+   2,R
+   1,R,J
+   2,R
+   1,L,J,G
+  21,R
+  13,R,D
    1,R,J,G
-   2,J,G
-   5,R,K,G
-   5,R
-   8,R,J
-   4,R
-  11,R,D
+   2
+   7,R
+   3,R,D
+  10,R,J
+  10,R
+  14,R,D
    1,J
-  18,L,D
-  34,D
+  15,R,D
+  19,L,D
+  24,D
    6,R
    1,R,J
    5,R,K,G
    2,R
    1,J,G
    3,J
-  42
+  43
 
 #lvl_18a
-  18
+  17
    1,R,J
   10,J
    1,L,J
@@ -839,7 +856,6 @@ AnalogMode, Ignore
    5,R,D
  108,D
   42,L
-# new
    4,L,D
    1,R,J
    1,R,K
@@ -1912,4 +1928,4 @@ AnalogMode, Ignore
    1,D,J
   18
 
-ChapterTime: 6:16.329(22137)
+ChapterTime: 6:15.105(22065)
