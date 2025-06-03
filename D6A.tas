@@ -1,5 +1,5 @@
 # D6A UJ 30x
-RecordCount: 6023
+RecordCount: 6041
 
 console load 6
    1
@@ -1697,16 +1697,26 @@ AnalogMode, Ignore
    1,S,O
    1,D,J
   34
-  12,R,K
+  11,R,J
+   4,R
+   7
+  26,L,J
   15,U,X
-  15,U,C
-  13,R,J
+  19,L,J
+   2,K,G
+   1,J
   40
 
 #lvl_after-00
-  28,L
-   8,L,K,G
-   7,L
+   1,L
+   3,R
+   2,L
+   1,L,J,G
+  10,L,K,G
+   2,L
+   1,J,G
+   5
+   2,L
   10,L,J
    3,L,K,G
   12,L
@@ -1877,4 +1887,4 @@ AnalogMode, Ignore
    1,D,J
   18
 
-ChapterTime: 6:14.969(22057)
+ChapterTime: 6:15.258(22074)
