@@ -1,17 +1,19 @@
 # D6A UJ 19x
-RecordCount: 7643
+RecordCount: 7655
 
 console load 6
    1
 Set ExtendedVariantMode.EveryJumpIsUltra true
 
 #Start
+#0x
  110
    1,S
    1,D,J
   34
 
 #lvl_start
+#2x
    1,R,J
   14,R
    1,R,J
@@ -53,12 +55,19 @@ AnalogMode, Ignore
   18
 
 #lvl_00
- 130,L,U
+#1x
+  95,U
+   5,L,U
+   1,L,J
    1,L,K
    1,L,J
-   8,K
-  12,L,J,G
-   5,K,G
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+  12,L,J
+   8,K,G
    1,R,K
    1,L,K
    4,J,G
@@ -70,6 +79,7 @@ AnalogMode, Ignore
   40
 
 #lvl_01
+#0x
    3
    1,R
    1,L
@@ -118,6 +128,7 @@ AnalogMode, Ignore
   40
 
 #lvl_02 (0)
+#0x
    6,L
    1,K,G
    1,L,J,G
@@ -181,6 +192,7 @@ AnalogMode, Ignore
   40
 
 #lvl_03
+#0x
    4,L
    1,L,J
   14,L
@@ -197,6 +209,7 @@ AnalogMode, Ignore
   40
 
 #lvl_02 (1)
+#0x
    4,R
    3,R,J
    1,R
@@ -222,6 +235,7 @@ AnalogMode, Ignore
   40
 
 #lvl_02b
+#3x
   11,L
   16,L,X
    9,L,C
@@ -262,6 +276,7 @@ AnalogMode, Ignore
   40
 
 #lvl_04
+#1x
    1,L
    3,L,J,G
    1,K,G
@@ -336,6 +351,7 @@ AnalogMode, Ignore
   40
 
 #lvl_05
+#0x
   13,R,D
    5,R
    1,R,J
@@ -355,6 +371,7 @@ AnalogMode, Ignore
   40
 
 #lvl_06
+#1x
    2,R,K
    1,R
    4,R,J
@@ -390,12 +407,14 @@ AnalogMode, Ignore
   40
 
 #lvl_07
+#0x
   28,R,D
    7
    1,R,D
   40
 
 #lvl_08a
+#0x
   10,R
    1
   14,R,D
@@ -424,6 +443,7 @@ AnalogMode, Ignore
   40
 
 #lvl_09
+#0x
    5,R,J
    1,L,J
   11,K,G
@@ -467,6 +487,7 @@ AnalogMode, Ignore
   40
 
 #lvl_10b
+#0x
    1,R
    3,R,J
    7,L,J
@@ -496,6 +517,7 @@ AnalogMode, Ignore
   40
 
 #lvl_11
+#0x
    8,R,D
    5,R,J
    1,K
@@ -537,6 +559,7 @@ AnalogMode, Ignore
   43
 
 #lvl_12b
+#0x
   14,L
    3,L,D
    1,L
@@ -590,6 +613,7 @@ AnalogMode, Ignore
   40
 
 #lvl_13
+#4x
   13,R
   17,D
    6
@@ -607,7 +631,6 @@ AnalogMode, Ignore
    1,K
    2,J,G
    7,U,X
-
   11
    1,R,J
    9,R,K
@@ -634,6 +657,7 @@ AnalogMode, Ignore
   40
 
 #lvl_14b
+#0x
   13,R,J
    3,R,K,G
   21,R,J,G
@@ -668,12 +692,14 @@ AnalogMode, Ignore
   40
 
 #lvl_15
+#0x
    4,R,K
   22,R
    3,L,D,J
   40
 
 #lvl_16b
+#0x
    1,J
    5
   10,L,J
@@ -695,6 +721,7 @@ AnalogMode, Ignore
   40
 
 #lvl_17
+#1x
    2,R
    1,R,J
    2,R
@@ -743,6 +770,7 @@ AnalogMode, Ignore
   43
 
 #lvl_18b
+#1x
    6,R
   20,R,J
    1,J
@@ -757,6 +785,7 @@ AnalogMode, Ignore
   40
 
 #lvl_19
+#0x
    1,R,J
    1,R
    5
@@ -766,6 +795,7 @@ AnalogMode, Ignore
   59
 
 #lvl_20
+#0x
    4,R,D
    5
    2,R
@@ -791,6 +821,7 @@ AnalogMode, Ignore
   40
 
 #lvl_b-00
+#0x
    3,R
    1,R,J
   21,R,D
@@ -817,6 +848,7 @@ AnalogMode, Ignore
   40
 
 #lvl_b-01
+#0x
    3
    3,J,G
   11,R
@@ -828,6 +860,7 @@ AnalogMode, Ignore
   40
 
 #lvl_b-02
+#1x
   25,R,D
    1,R,J
   10,R
@@ -888,6 +921,7 @@ AnalogMode, Ignore
   40
 
 #lvl_b-02b
+#0x
    6,R,D
    2,D
    1,J
@@ -928,6 +962,7 @@ AnalogMode, Ignore
   40
 
 #lvl_b-03
+#0x
    6,R
    1,R,J
    4,R
@@ -946,6 +981,7 @@ AnalogMode, Ignore
   40
 
 #lvl_boss-00
+#0x
    3
    3,R
    1,R,J
@@ -995,6 +1031,7 @@ AnalogMode, Ignore
   40
 
 #lvl_boss-01
+#0x
    1,D
    4,R,D
   15,R,K,G
@@ -1067,6 +1104,7 @@ AnalogMode, Ignore
   40
 
 #lvl_boss-02
+#0x
   41,R,D
    4,R,J
    4,R
@@ -1136,6 +1174,7 @@ AnalogMode, Ignore
   42
 
 #lvl_boss-03
+#0x
    4,R
    3,R,K,G
    9,R
@@ -1185,6 +1224,7 @@ AnalogMode, Ignore
   40
 
 #lvl_boss-04
+#0x
    8,D
    7,R,D
    2,D
@@ -1209,6 +1249,7 @@ AnalogMode, Ignore
   40
 
 #lvl_boss-05
+#0x
   12,R,K
   34,R
    7,R,K,G
@@ -1236,6 +1277,7 @@ AnalogMode, Ignore
   40
 
 #lvl_boss-06
+#1x
    1,L,D
   10,D
   10,R,D
@@ -1285,6 +1327,7 @@ AnalogMode, Ignore
   40
 
 #lvl_boss-07
+#0x
    3,D
   15,R,D
    1,D
@@ -1308,7 +1351,6 @@ AnalogMode, Ignore
    1,G
    1
   11,R
-
    2,D
    1,R,K,G
    2,R,J,G
@@ -1336,6 +1378,7 @@ AnalogMode, Ignore
   40
 
 #lvl_boss-08
+#0x
    3,D
    5,R,D
    1,R,K,G
@@ -1398,6 +1441,7 @@ AnalogMode, Ignore
   40
 
 #lvl_boss-09
+#0x
   47,R,D
   22,R
   28,F,45
@@ -1435,6 +1479,7 @@ AnalogMode, Ignore
   40
 
 #lvl_boss-10
+#0x
   15,R,D
    4,K,G
    1,R,K
@@ -1460,6 +1505,7 @@ AnalogMode, Ignore
   40
 
 #lvl_boss-11
+#0x
    7,R,K
   12,R
    1
@@ -1519,6 +1565,7 @@ AnalogMode, Ignore
   40
 
 #lvl_boss-12
+#0x
   14,L,D
    2,K,G
    4,L
@@ -1562,6 +1609,7 @@ AnalogMode, Ignore
   40
 
 #lvl_boss-13
+#0x
    8,R
    1
    1,R
@@ -1610,6 +1658,7 @@ AnalogMode, Ignore
   40
 
 #lvl_boss-14
+#0x
    1,R
    9,R,J
    1,S,O
@@ -1623,6 +1672,7 @@ AnalogMode, Ignore
   49
 
 #lvl_boss-15
+#0x
   15
    1,L,J
   14,L
@@ -1638,6 +1688,7 @@ AnalogMode, Ignore
   40
 
 #lvl_boss-16
+#0x
    5,R,D
   12,R
    1,R,K,G
@@ -1687,6 +1738,7 @@ AnalogMode, Ignore
   40
 
 #lvl_boss-17
+#0x
    1,R,J
   11,R
    2
@@ -1726,6 +1778,7 @@ AnalogMode, Ignore
   40
 
 #lvl_boss-18
+#1x
   10,R,D
   35,L,D
   17,R,D
@@ -1786,6 +1839,7 @@ AnalogMode, Ignore
   44
 
 #lvl_boss-19
+#2x
    4,R
    3
    3,R
@@ -1847,6 +1901,7 @@ AnalogMode, Ignore
   40
 
 #lvl_boss-20
+#0x
    1,R
    1,R,J
    1,J
@@ -1885,6 +1940,7 @@ AnalogMode, Ignore
   40
 
 #lvl_after-00
+#0x
    2
    4,L
    1,L,J,G
@@ -1947,6 +2003,7 @@ AnalogMode, Ignore
   40
 
 #lvl_after-01
+#0x
    5,R
    8,K,G
    7,R
@@ -2058,9 +2115,10 @@ AnalogMode, Ignore
  359
 
 #lvl_after-02
+#0x
   84
    1,S,O
    1,D,J
   18
 
-ChapterTime: 6:02.457(21321)
+ChapterTime: 6:01.964(21292)
