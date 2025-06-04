@@ -1,5 +1,5 @@
-# D6A UJ 19x
-RecordCount: 7661
+# D6A UJ 18x
+RecordCount: 7848
 
 console load 6
    1
@@ -1862,7 +1862,7 @@ AnalogMode, Ignore
   44
 
 #lvl_boss-19
-#2x
+#1x
    4,R
    3
    3,R
@@ -1892,20 +1892,39 @@ AnalogMode, Ignore
    1,F,128.457
   31,F,103.855
    1,F,103.459
-   3,R
-   2,L,U
-  29,L
-  27,R
-  11,R,U,X
-   3,R,K,G
-   2,L,J,G
-   1,R,J
-  10,R
-  10,L,D
-   9,R,D
-   2,R,K,G
-   1,L,J,G
+  11,F,43
+   5,F,30.584
+   5,F,30.633
+   2,F,33.211
+  31,F,68.38
+   1,U
+   3
+   8,R,J,G
+   1,L
+   5,K,G
+   4
    4,R
+   3,R,J,G
+   1,L,J
+   1,K,G
+   9
+   1,R
+  10,D
+   3,R,D
+   1,R,J,G
+   1,R,K,G
+  10,R
+   7
+   1,R,J
+   9,R
+   3
+   1,R
+  12,R,D
+   6,R,J,G
+   1,L
+   3,K,G
+   6
+  14,R,J
   47,R,D
   12,R,J
   43,R
@@ -2144,4 +2163,4 @@ AnalogMode, Ignore
    1,D,J
   18
 
-ChapterTime: 5:59.499(21147)
+ChapterTime: 6:00.825(21225)
