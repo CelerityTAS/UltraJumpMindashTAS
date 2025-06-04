@@ -1,5 +1,5 @@
 # D6A UJ 23x
-RecordCount: 7489
+RecordCount: 7499
 
 console load 6
    1
@@ -1339,10 +1339,30 @@ AnalogMode, Ignore
    1,R,J,G
   11,R
   26,L,D
-  71,R,D
-   9,R,X
-   1,K,G
-  22,D
+  32
+   3,L
+   1
+   4,L
+   1
+   2,L
+   1
+   2,L
+   1
+   6,L
+   6,L,D
+   1,J
+   1,R,J
+   3,R
+   2
+   3,R
+  17,R
+   6,R,J
+   1,J,G
+   3,R,K,G
+   1,D
+   7,R,D
+   1,R,J,G
+  27,R,D
   47,L,D
   28,R,D
   10,L,D
@@ -2015,4 +2035,4 @@ AnalogMode, Ignore
    1,D,J
   18
 
-ChapterTime: 6:14.986(22058)
+ChapterTime: 6:15.530(22090)
