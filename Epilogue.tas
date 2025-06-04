@@ -7,10 +7,13 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
   69
 
 #lvl_outside
-   8,L,X
-   7,L,K
-   8,L,V
-   1,R,K
+   5,L
+   1,L,J
+  14,L
+   5,L,J
+   1,L
+   1,L,K,G
+   7,L
  122
   33,L,J
    1,S
