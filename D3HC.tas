@@ -1,0 +1,370 @@
+# D3HC UJ 11x
+RecordCount: 8745
+
+Set ExtendedVariantMode.EveryJumpIsUltra true
+console load 3
+   1
+
+#start
+Read, D3A, Start, lvl_12-x
+   6,L,J
+   1,R,J
+   1,K
+   4,J,G
+   4,L,J
+  25,L
+   1,L,J
+   5,L,K,G
+   8,L
+  17,L,D,X
+   1,S
+   1,D,O
+  69,J
+  12,R,K
+  11,R,J,G
+   1,K
+   6,J,G
+   5,L,J
+   4,J
+  12,K
+   9,J
+   1,K
+   5,J,G
+   1,R,J
+  12,K
+  12,J
+   3,K
+  40
+
+
+#lvl_11-a
+   1,R,K,G
+   1,R,J,G
+   8,R,K,G
+   4,R
+  40
+
+#lvl_13-a
+   7,R,K
+   3,K
+  11,L,J,G
+   1,L
+   8,K,G
+   1
+   1,R
+   1,R,J,G
+   5,J
+   6
+   1,R,J,G
+   7
+   1,R,G
+   8,K,G
+   1,L,K
+   1,R,K
+   3,J,G
+   6,L,J
+   8,K
+   1,J
+   1,K,G
+   7,K
+  10,R
+   8,R,J,G
+   5,K
+  40
+
+#lvl_13-b
+  34,R
+   1,R,J
+  14,R
+   2,R,J
+  14,R,U,X
+   2,R,K,G
+   2,L,K
+   1,J,G
+   1,R,J
+   3,L,J
+  13,L,K,G
+
+   4,L,J,G
+   4,R,J
+   6,L,J
+   1,L,K,G
+   9,L
+   5,L,J
+  19,L
+   2,L,K,G
+   2,L,J,G
+   5,J
+   2,L,J
+   6,L
+   1,L,J
+   3,L
+   1,L,J
+  11,L
+
+   1,L,K,G
+   1,L
+   3
+   1,L
+   2,L,J
+   1
+  10
+   1,L
+   1,L,K,G
+   4,L,J,G
+  15,L
+   1,L,K,G
+   5,L
+  40
+
+
+#lvl_12-b
+   7,L
+   3,L,D
+   1,D
+   4,L,J
+  17,L
+   2,L,J
+   5,L
+   1,J
+   6,L,J
+   4,L
+   4,L
+   1,L,K,G
+  11,L
+  40
+   1,L
+  16,L,J
+   6,K
+   4,J
+   2
+   3,R,K
+   1,R,J,G
+  10,R
+  11,R,K
+   7,J,G
+   1,L,J
+   1,K
+   1,J
+   1,L,J
+   2,L,K,G
+   1,J
+  40
+
+#lvl_11-c
+  19,L,K,G
+  26,L,X
+   1,L,K,G
+  60,L,D
+  10,L,G
+ 102,L,D
+   1,J
+# heart
+  32,L,D
+  40
+
+#lvl_11-b
+  28,L,D
+   1,L,J
+   4,L
+  40
+
+  10,L
+   7,L,J
+  13,L
+   1
+   1,L
+   1
+   1,L
+   1
+   6,L
+   2
+   1,L,K,G
+   1,L,J,G
+   5,L
+   3,L,J
+   6,L
+   1,L,J
+  39,L,D
+  20,L,J,G
+   1,J
+   6,L,J
+   5,L,K,G
+   1,K
+  20,L,K
+   1,J
+   4,R,J
+   1,L,J
+  10,L,K,G
+   4,L
+   1,L,K,G
+  11,L
+   5,R
+   5
+  41,L
+  60,G
+   1,L,J,G
+   2,R,J
+   2,L,J
+   5,J
+   1,L,K,G
+   3,L,J,G
+  13,L,K,G
+   5
+   1,S
+   1,D,J
+  34
+   1,K
+  11,L,J
+  40
+
+Read, D3A, lvl_09-d, lvl_02-c
+
+#lvl_02-c (0)
+   8,L
+   1,L,J
+  20,L
+   3,L,J
+   1,J
+   1
+   1,K,G
+   1,L,J,G
+  10,L
+   8,L,J
+   5,L
+   1,L,J
+   9,L
+   3,L,J
+   5,L
+   1,L,J
+  11,L
+   3,L,J
+   5,L
+   1,L,J
+  11,L
+   3,L,J
+  17,L
+   2
+   5,J
+   2,L,J
+   1,J
+#    5,L,J
+#    1,L,K,G
+#    1,K
+#    1,K
+#    3,L,K
+#    1,L,K
+#   40
+#    1,K
+#    2,L,K
+#    1,L,K
+#    1,R,K
+#    1,R,J,G
+#    5,L,J,G
+#    1
+#    4,L
+#  300,L,J
+
+   1,L,J
+   4,L
+   1,L,K,G
+   7,L
+  40
+
+#lvl_01-c
+   1,L
+   1,L,K
+   3,L
+   3,L,D
+   2,L,J
+   5,L
+   3,L,J
+  17,L,K,G
+   1,L,J,G
+   1,J
+   2,R,J
+   2,L,J
+   1,L,K,G
+   1,L,J,G
+  10,L
+   1
+   3,L,K
+   6,L
+   9,L,J,G
+   3,R,J
+   3,L,J
+   1,L,K,G
+  19,L
+  13,L,D
+   7,R
+   7,L
+  14,L,K,G
+   1,K
+  12,L,J,G
+  12,K
+   2,J
+ 257
+# cassette
+   1,J
+ 123
+   8,R
+   1,R,J
+   2,R
+  40
+
+
+#lvl_02-c (1)
+  12,R
+   1,L,J
+  10,J
+   1,K
+   7,L,K
+   9,L,K
+   6,J,G
+   1,R,J
+   1,K
+   1,J
+   8,R,J
+   2,R
+   1,R,K,G
+   9,R
+   1,R,K
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+   2
+  11,R
+   4,R,K,G
+   1,L,J,G
+   5,R
+   2,R,J
+   1,R
+   5,R,J
+   6,R
+   2,R,J
+   5,R
+   6,R,J
+  10,R,D
+  25,L,D
+  11,R,D
+   1
+   2,L
+   1,D
+# key-cycle
+# moving the cycle to next room will save time
+  19
+   6,R
+   1,J
+   1,K,G
+   1,R,J,G
+  11,R
+   6,R,J
+  40
+#lvl_04-c
+
+Read, D3A, lvl_04-c (1)
+
+ChapterTime: 5:01.121(17713)
