@@ -1,5 +1,7 @@
-aRecordCount: 7498
 # D5A UJ 6x
+RecordCount: 7501
+
+# Dashes:
 # a-08  1x (-1x)
 # a-12  0x (-1x)
 # b-00  1x (-0x)
@@ -21,9 +23,11 @@ console load 5
    1
 
 #Start
+#0x
  110
 
 #lvl_a-00b
+#0x
    1,S
    1,D,O
   34
@@ -42,6 +46,7 @@ console load 5
   40
 
 #lvl_a-00d
+#0x
    5,R,J
    9,R
    1,J
@@ -75,6 +80,7 @@ console load 5
   40
 
 #lvl_a-00c
+#0x
   11,R,D
    5,J
    3,R,K,G
@@ -106,6 +112,7 @@ console load 5
   40
 
 #lvl_a-00
+#0x
   10,R
    6,R,J
   90,R,X
@@ -119,6 +126,7 @@ console load 5
   40
 
 #lvl_a-01 (0)
+#0x
    8,R
   13,R,J
   63,R,D,X
@@ -137,8 +145,7 @@ console load 5
   40
 
 #lvl_a-08 (0)
-
-
+#0x
   37,U,X
    1,L,J
    1,K,G
@@ -146,6 +153,7 @@ console load 5
   40
 
 #lvl_a-10
+#0x
    8,L
   12,L,J
   10,L
@@ -189,6 +197,7 @@ console load 5
   40
 
 #lvl_a-08 (1)
+#0x
    5,R
    7,R,J
    3,R
@@ -197,6 +206,7 @@ console load 5
   49
 
 #lvl_a-12
+#0x
    1
    6,L,K
    4,R,K
@@ -214,7 +224,7 @@ console load 5
   40
 
 #lvl_a-08 (2)
-# 1x
+#1x
    3,L
    1,L,J
   10,L
@@ -232,6 +242,7 @@ console load 5
   40
 
 #lvl_a-01 (1)
+#0x
   29,D
   18,R,D
    1,R,K,G
@@ -241,9 +252,10 @@ console load 5
   25,R,D,X
    1,R,K,G
    7,R
+  61
 
 #lvl_a-13
-  61
+#0x
    7,R
    1,R,J
   14,R
@@ -282,7 +294,7 @@ console load 5
   40
 
 #lvl_b-00
-# 1x
+#1x
    9,R,J
    1,S
    1,D,O
@@ -335,6 +347,7 @@ console load 5
   40
 
 #lvl_b-01
+#0x
    4,R
   10,R,J
    7
@@ -389,6 +402,7 @@ console load 5
   40
 
 #lvl_b-01b
+#0x
    3,R,J
    1,R
    1,R,J
@@ -422,6 +436,7 @@ console load 5
   40
 
 #lvl_b-02
+#0x
   18,R
    4,R,J
    2
@@ -435,6 +450,9 @@ console load 5
    8,R,J
    1,R
   40
+
+#lvl_b-06
+#0x
    3,R
   14,L,K,G
   20,R,K
@@ -480,6 +498,7 @@ console load 5
   40
 
 #lvl_b-19
+#0x
    5,R
    1,R,J
   26,R
@@ -545,6 +564,7 @@ console load 5
   40
 
 #lvl_b-14
+#0x
    1,R,J
    1,L,K,G
   15,R,K
@@ -566,7 +586,7 @@ console load 5
   40
 
 #lvl_b-16
-# 2x
+#2x
    7,L
    1,L,J,G
   10,L,K,G
@@ -604,6 +624,7 @@ console load 5
   34
 
 #lvl_void
+#0x
  525
   19,R,D,X
   19,L,D,C
@@ -631,11 +652,12 @@ AnalogMode,Ignore
   34
 
 #lvl_c-00
+#0x
  111
 #   1,S
 #   1,D
 #   1,J,F,180
-# SaveAndQuitReenter does not work because of extended variants
+# SaveAndQuitReenter works if you turn off modoptions but idk how to use it
   80
    5,R
    1,R,J
@@ -661,6 +683,7 @@ AnalogMode,Ignore
   40
 
 #lvl_c-01
+#0x
   12,R
    1,S
    1,D,O
@@ -707,6 +730,7 @@ AnalogMode,Ignore
   40
 
 #lvl_c-01b
+#0x
    2,R
    2,R,K
   11,R
@@ -748,6 +772,7 @@ AnalogMode,Ignore
   40
 
 #lvl_c-01c
+#0x
    5,R
    1,R,J
   10,R
@@ -780,6 +805,7 @@ AnalogMode,Ignore
   40
 
 #lvl_c-08b
+#1x
    1,R,J
   12,R
    6,L
@@ -816,6 +842,7 @@ AnalogMode,Ignore
   40
 
 #lvl_c-08
+#0x
    1,R
    6,R,D,K
   13,R
@@ -857,9 +884,10 @@ AnalogMode,Ignore
    9,R
    2,R,J
    2,R
-  40,J
+  40
 
 #lvl_c-10
+#0x
   13,R
    2,R,J
    5,R
@@ -881,9 +909,11 @@ AnalogMode,Ignore
    1,R,K,G
    5,R
    1,R,J,G
-  46
+   6
+  40
 
 #lvl_c-12
+#0x
   15,D
    8,L,D
    3,D
@@ -941,6 +971,7 @@ AnalogMode,Ignore
   40
 
 #lvl_c-07
+#0x
    8,R
    1,R,K,G
    2,R,K
@@ -971,6 +1002,7 @@ AnalogMode,Ignore
   40
 
 #lvl_c-11
+#0x
   41,R,J
    4,R
    1
@@ -985,6 +1017,7 @@ AnalogMode,Ignore
   40
 
 #lvl_c-09
+#0x
    1,R
    2,R,J
    8
@@ -1032,6 +1065,7 @@ AnalogMode,Ignore
   40
 
 #lvl_c-13
+#0x
    4,R
    1,R,J
    2,R
@@ -1129,7 +1163,7 @@ AnalogMode,Ignore
   40
 
 #lvl_d-00
-# 1x
+#1x
    1,L,K,G
    4,R,K
    1,L,K
@@ -1174,6 +1208,7 @@ AnalogMode,Ignore
   58
 
 #lvl_d-01
+#0x
   39
   23,L,D
    1,L,J
@@ -1216,6 +1251,7 @@ AnalogMode,Ignore
   40
 
 #lvl_d-04
+#0x
   13,L
    1,L,J
   20,L,D
@@ -1237,12 +1273,14 @@ AnalogMode,Ignore
   40
 
 #lvl_d-19b (0)
+#0x
    4,D
   21,R,D
   16,D
   40
 
 #lvl_d-19
+#0x
   15,R,D
    6,D
    8,L,D
@@ -1330,6 +1368,7 @@ AnalogMode,Ignore
   40
 
 #lvl_d-19b (1)
+#0x
   11,L,K
    9,L,J,G
    3,L
@@ -1383,9 +1422,11 @@ AnalogMode,Ignore
    1
    7,R
    1,R,J
-  45
+   5
+  40
 
 #lvl_d-10
+#0x
    9
    3,J
   14,R,J
@@ -1422,6 +1463,9 @@ AnalogMode,Ignore
    1,R,K,G
    1,J
   40
+
+#lvl_d-20
+#0x
    2,R,K,G
    1,J,G
    7,R,J
@@ -1474,6 +1518,7 @@ EndRepeat
   40
 
 #lvl_e-00
+#0x
   20,R,K
    1,J
    1,R,K,G
@@ -1515,6 +1560,7 @@ EndRepeat
   40
 
 #lvl_e-01
+#0x
    9,R,G
    1,R,J,G
   14,R,G
@@ -1552,6 +1598,7 @@ EndRepeat
   40
 
 #lvl_e-02
+#0x
    8,R,G
    1,R,J,G
    4,R,G
@@ -1588,6 +1635,7 @@ EndRepeat
   40
 
 #lvl_e-03
+#0x
   12,R,G
    6,R,J,G
    8,R,G
@@ -1633,6 +1681,7 @@ EndRepeat
   40
 
 #lvl_e-04
+#0x
   11,R,G
    1,R,J,G
   14,R,G
@@ -1667,6 +1716,7 @@ EndRepeat
   40
 
 #lvl_e-06
+#0x
    4,R,G
   12,R,J,G
    5,R,G
@@ -1720,6 +1770,7 @@ EndRepeat
   40
 
 #lvl_e-05
+#0x
    1,R,G
   10,R,J,G
    1,L,J,G
@@ -1762,6 +1813,7 @@ EndRepeat
   40
 
 #lvl_e-07
+#0x
   12,R,K,G
    3,R,G
    1,G
@@ -1854,6 +1906,7 @@ EndRepeat
   40
 
 #lvl_e-10
+#0x
    1,J,G
    2
    1,L
@@ -1917,6 +1970,7 @@ EndRepeat
   40
 
 #lvl_e-11
+#0x
    4,R,G
    1,R,J,G
   14,R,G
