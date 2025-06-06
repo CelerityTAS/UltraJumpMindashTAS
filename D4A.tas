@@ -1,4 +1,6 @@
-RecordCount: 5592
+# D4A UJ 6x
+RecordCount: 5600
+
 # Dashes:
 # 1x: a-01      (-0x)
 # 1x: a-07      (-2x)
@@ -12,14 +14,17 @@ RecordCount: 5592
 # 0x: d-08      (-1x)
 # 1x: d-09      (-1x)
 
-console load 4
-   1
 Set, ExtendedVariantMode.EveryJumpIsUltra, true
 
+console load 4
+   1
+
 #Start
+#0x
   69
 
 #lvl_a-00
+#0x
    5,R
    1,R,J
    5,R
@@ -37,9 +42,7 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    1,R,K,G
    5,R,J,G
    1,J
-   1,R
-   1,R
-
+   2,R
    1,J,G
   14,R
   12,L
@@ -49,7 +52,6 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
   26,R,K
    2,K
    1,R
-
   13,J
    2,R,J
    6,R
@@ -66,7 +68,8 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    7,R
   40
 
-#lvl_a-01 (1x)
+#lvl_a-01
+#1x
    7,R
    5,R,J
   15,R,U,X
@@ -89,7 +92,6 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    2,K
    1,R
    8,R,J,G
-
    2,R
    1,R,K,G
    1,R,J,G
@@ -98,6 +100,7 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
   40
 
 #lvl_a-01x
+#0x
    3,R,J
    8,R
    1,R,J
@@ -148,9 +151,8 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
   10,R
   40
 
-
-
 #lvl_a-02
+#0x
    8,R
    2,R,K
    8,R
@@ -158,8 +160,7 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    1,R
    6,K
    1
-   5,J
-   2,J
+   7,J
    6
    2,R
    6
@@ -170,11 +171,11 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    1,J
   10,R,J
    1,R,K,G
-   4,D
-   1,D
+   5,D
   40
 
 #lvl_a-03
+#0x
    8,R,D
    8,R
    1,K,G
@@ -195,8 +196,8 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    8,R
   43
 
-
 #lvl_a-04
+#0x
    6,R
    1,R,J
   16
@@ -227,19 +228,17 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    2,R,J
    1,R
    1,R,J
-   1,R
-   7,R
+   8,R
    1,R,K,G
    1,R
    1
    7,R
    1,R,J
-   3
-   1
+   4
   40
 
-
 #lvl_a-05
+#0x
   11,R
    1,L,K,G
    2,R,K
@@ -261,8 +260,8 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    5,R,K,G
   40
 
-
 #lvl_a-06
+#0x
    2,R,K
    7,R
    7,R,K
@@ -270,24 +269,21 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    1,L,J
    1,K
    5,R,J,G
-   7,R
-   1,R
-   1,R
+   9,R
    1,R,K,G
   24,R,J,G
   15,R,D
   11,D
   11,R,D
    1,R
-
    1,R,K,G
    9,R
    1,R,J
   10,R
   40
 
-
-#lvl_a-07 (1x)
+#lvl_a-07
+#1x
    4,R
    1,R,J
   14,R
@@ -345,8 +341,8 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
   11,R
   40
 
-
 #lvl_a-08
+#0x
   10,R
    8,R,J
   16,R
@@ -376,8 +372,8 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    2,R,J
   40
 
-
 #lvl_a-09
+#0x
   12,R,K
   11,J,G
    1,L,J
@@ -403,8 +399,8 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    9,K
   40
 
-
 #lvl_b-00
+#0x
    2,R
    1,R,K,G
    3,R,J,G
@@ -417,8 +413,7 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    2,R,K
    1,R
    1,R,J,G
-   3,J
-   3,J
+   6,J
    1,R,J
   10,R
   11,R,J
@@ -454,7 +449,6 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    1,R,J
    1,L,J
    1,J
-
   20,L,K
    1,L
    3,L,K
@@ -474,8 +468,8 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    5,R,K,G
   40
 
-
 #lvl_b-02
+#0x
   14,K
    1,R,J,G
    1,L,J
@@ -487,8 +481,8 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    1,K
   40
 
-
 #lvl_b-05
+#0x
    3
    1,L,J,G
    1,L,K,G
@@ -505,8 +499,7 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    2,J
    1,R
    1
-   1,R
-   1,R
+   2,R
    1,J
    1,L,J
    3,L,K,G
@@ -538,8 +531,8 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    1,J
   40
 
-
 #lvl_b-08b
+#0x
    6
    5,L
   11,K,G
@@ -576,6 +569,7 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
   40
 
 #lvl_b-08
+#0x
    1,K
    1,R,K
    2,R
@@ -603,7 +597,6 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    2,R,J,G
    3,R
    1,R,K,G
-
    5,R
   10,R,J
    3,R
@@ -626,7 +619,8 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    8,J
   40
 
-#lvl_c-00 (2x)
+#lvl_c-00
+#2x
    2,R
    1,R,K,G
    1,R,J,G
@@ -709,6 +703,7 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
   40
 
 #lvl_c-02
+#0x
    4,R
   23,R,J
   14,R,U,X
@@ -725,6 +720,7 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
   40
 
 #lvl_c-04
+#0x
    1,K
    1,R,K
   14,R
@@ -739,7 +735,6 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    1,L,K,G
   18,J
   10,L
-#1:08.731(4043)
    5
   13,L
    1
@@ -769,11 +764,11 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    1,R,J,G
    9,R
    1,R,J
-   1
-   1
+   2
   40
 
-#lvl_c-05 (1x)
+#lvl_c-05
+#1x
    2
   10,R
    1,R,K
@@ -804,7 +799,8 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    1,R,J
   40
 
-#lvl_c-06(1x)
+#lvl_c-06
+#1x
    6,R
    1,R,K,G
   10,R
@@ -847,8 +843,7 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
   12,K,G
    2,R,J,G
    3,L,J
-   4,R
-   4,R
+   8,R
   34,R,J
   12,R,K,G
   12,R,J,G
@@ -898,8 +893,8 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    1,K
   40
 
-
 #lvl_c-09
+#0x
    4,L
    3,L,K,G
    7,L
@@ -950,12 +945,11 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    1,L,K
    1,J
   11,L,J
-
   11,R,K
   40
 
-
 #lvl_c-07
+#0x
    1
    1,R,J,G
    1,R,K,G
@@ -999,8 +993,8 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    6,R
   40
 
-
 #lvl_c-08
+#0x
    6,R
    1,R,J
   16,R
@@ -1026,6 +1020,7 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
   40
 
 #lvl_c-10
+#0x
   11,R
    1,R,J
   14,R
@@ -1089,10 +1084,10 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    1,R,J,G
    1,K
   40
-   1,R,K,G
-
 
 #lvl_d-00
+#0x
+   1,R,K,G
   10,R
    6,R,J
    8,R
@@ -1102,8 +1097,8 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    1,R
   43
 
-
 #lvl_d-01
+#0x
   13,R
   19,R,J
   12,R,K,G
@@ -1122,8 +1117,8 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    1,R
   40
 
-
 #lvl_d-02
+#0x
   13,R
    2,D
    1,R
@@ -1209,8 +1204,8 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    1,R,J
   40
 
-
 #lvl_d-03
+#0x
   21,R
   24,R,J
    1,J
@@ -1225,6 +1220,7 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
   40
 
 #lvl_d-04
+#0x
    6,R,D
    1,R,J
    1
@@ -1254,6 +1250,7 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
   40
 
 #lvl_d-05
+#0x
    4,R
   17
    3,J,G
@@ -1267,6 +1264,7 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
   40
 
 #lvl_d-06
+#0x
   18,R
    1,J,G
    1,R
@@ -1287,6 +1285,7 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
   40
 
 #lvl_d-07
+#0x
    1,R,K
    5,R
   10,R,K
@@ -1312,6 +1311,7 @@ endrepeat
   40
 
 #lvl_d-08
+#0x
    1,R
    2,D
    1,R
@@ -1379,6 +1379,7 @@ endrepeat
   40
 
 #lvl_d-09
+#0x
    1
    2,R
    5,R,J
@@ -1434,6 +1435,7 @@ endrepeat
   40
 
 #lvl_d-10
+#0x
    4,R
    1,R,J
   14,R
