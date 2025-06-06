@@ -1,5 +1,5 @@
 # D3A UJ 9x
-RecordCount: 8224
+RecordCount: 8353
 
 Set ExtendedVariantMode.EveryJumpIsUltra true
 console load 3
@@ -1719,42 +1719,45 @@ console load 3
   12,L
   17,L,J
    5,J
-   5,L,K,G
-   3,R,K
-   4,K
-   1,L,K
-   1,L,J,G
-   1,L,K,G
-  10,L
-   4,L,J
+  12,K,G
+   3,L,J,G
+   1
+   1,K
+  11,L,Z
+   1,L,J
+   3,L
+   2,L,J
+   1,J
+   2,D
+  20,L,D
+   1,L,J
+  14,L
+   8,L,J
    5,L
    2,L,J
-   3,L
+   1
   14,L,Z
-   9,D
-  19,L,D
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-  12,L,J
-  14,L
-  15,L,Z
-  18,L,D
+   3,D
+   2,L
+   1
+   9,L
+   1
+   2,L,D
+   2,D
    1,L,J,G
+   1,L,K,G
   13,L
-   1,L,J
-  14,L
   12,L,J
   12,K,G
    5,J,G
    1,R,J
-   1,R,K
-  20,R,J
-   2,J
-   6,K,G
-   1,L,K
-  10,L,J
+   1,L,J
+   1,K,G
+  19,R,K
+   1,K
+   6,J,G
+   1,L,J
+  10,L,K
    5,L
    1,L,J
    1
@@ -2313,4 +2316,4 @@ EndRepeat
    1,D,J
   18
 
-ChapterTime: 4:32.697(16041)
+ChapterTime: 4:31.626(15978)
