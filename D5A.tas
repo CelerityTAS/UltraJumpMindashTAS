@@ -1,5 +1,5 @@
 # D5A UJ 6x
-RecordCount: 7502
+RecordCount: 7646
 
 # Dashes:
 # a-08  1x (-1x)
@@ -1896,22 +1896,113 @@ EndRepeat
    4,R
    1,R,J
   18,R
-Repeat,900
+Repeat,5
    1,R,J
+  14,R
+EndRepeat
    1,R
+   1,R,J
+  23,R
+Repeat,6
+   1,R,J
+  14,R
+EndRepeat
+   8,R
+   1,R,J
+  15,R
+Repeat,5
+   1,R,J
+  14,R
+EndRepeat
+   2,R
+   1,R,J
+  22,R
+Repeat,6
+   1,R,J
+  14,R
+EndRepeat
+  10,R
+Repeat,6
+   1,R,J
+  14,R
+EndRepeat
+   5,R
+   1,R,J
+  17,R
+Repeat,5
+   1,R,J
+  14,R
+EndRepeat
+   1,R
+   1,R,J
+  22,R
+Repeat,6
+   1,R,J
+  14,R
 EndRepeat
    9,R
    1,R,J
+  15,R
+Repeat,5
+   1,R,J
   14,R
+EndRepeat
+   3,R
+   1,R,J
+  20,R
+Repeat,6
+   1,R,J
+  14,R
+EndRepeat
+  10,R
+Repeat,6
+   1,R,J
+  14,R
+EndRepeat
+   6,R
+   1,R,J
+  17,R
+Repeat,5
+   1,R,J
+  14,R
+EndRepeat
+   1,R
+   1,R,J
+  23,R
+Repeat,6
+   1,R,J
+  14,R
+EndRepeat
+   9,R
+Repeat,6
+   1,R,J
+  14,R
+EndRepeat
+   3,R
+   1,R,J
+  20,R
+Repeat,6
+   1,R,J
+  14,R
+EndRepeat
+  10,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  35,L
+   1,R,J
+  35,L
    1,L,J
    7,R
   13,R,G
    7,G
-   1
+   2
   11,R,J
- 181
-  11,R,J
-   4,R
+  40
+   9,R,J
+   5,R
   40
 
 #lvl_e-10
@@ -2002,4 +2093,4 @@ EndRepeat
    1,D,O
   18
 
-ChapterTime: 4:53.692(17276)
+ChapterTime: 4:47.113(16889)
