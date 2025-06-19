@@ -1,5 +1,5 @@
 # D5A UJ 6x
-RecordCount: 7680
+RecordCount: 7681
 
 # Dashes:
 # a-08  1x (-1x)
@@ -660,11 +660,11 @@ AnalogMode,Ignore
 #lvl_c-00
 #0x
  111
-#   1,S
-#   1,D
-#   1,J,F,180
-# SaveAndQuitReenter works if you turn off modoptions but idk how to use it
-  80
+   1,S
+   1,D
+   1,J,F,180
+SaveAndQuitReenter
+  36
    5,R
    1,R,J
   39,R,D
@@ -2099,4 +2099,4 @@ EndRepeat
    1,D,O
   18
 
-ChapterTime: 4:46.620(16860)
+ChapterTime: 4:45.838(16814)
