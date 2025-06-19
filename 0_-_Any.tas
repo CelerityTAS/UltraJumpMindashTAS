@@ -25,7 +25,7 @@ Read,LoadANoCollects
 
 Read,D5A,Start
 
-Read,LoadANoCollects
+Read,LoadA
 
 Read,D6A,Start
 
@@ -46,4 +46,4 @@ Add 58
  427
 
 Read,LoadJournal,0,Any%
-FileTime: 28:56.465(102145)
+FileTime: 28:55.802(102106)
