@@ -913,7 +913,12 @@ console load 2
 
 #lvl_end_0
 #0x
- 190
+ 110
+   1,S
+   1,D
+   1,J,F,180
+SaveAndQuitReenter
+  36
    7,L
    1,L,J
    1,K,G
@@ -1019,5 +1024,5 @@ console load 2
    1,D,J
   18
 
-ChapterTime: 1:41.915(5995)
+ChapterTime: 1:41.133(5949)
 #19x
