@@ -1,0 +1,49 @@
+#Open the file creation screen and select "Begin"
+#After that, you can start the TAS
+
+Read,StartFullGameFile
+
+Read,Prologue,Start
+
+Read,LoadANoCollects,Prologue
+
+Read,D1A,Start
+
+Read,LoadANoCollects
+
+Read,D2A,Start
+
+Read,LoadA
+
+Read,D3A,Start
+
+Read,LoadA
+
+Read,D4A,Start
+
+Read,LoadANoCollects
+
+Read,D5A,Start
+
+Read,LoadANoCollects
+
+Read,D6A,Start
+
+Read,LoadANoCollects,0,Summit
+#Summit
+  45
+Add 29
+   1,J
+  32
+Add 1
+Read,D7A,Start
+
+Read,LoadCoreFromSummit,0,Epilogue
+Read, Epilogue, Start
+ 300
+   1,J
+Add 58
+ 427
+
+Read,LoadJournal,0,Any%
+FileTime: 28:56.465(102145)
