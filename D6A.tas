@@ -1,5 +1,5 @@
 # D6A UJ 18x
-RecordCount: 10268
+RecordCount: 10270
 
 console load 6
    1
@@ -360,6 +360,7 @@ AnalogMode, Ignore
    7,L,K
    1,L,J,G
    1,L,K,G
+#cp_cas
    8,L
    7,L,J
    8,L
@@ -378,6 +379,7 @@ AnalogMode, Ignore
    4,K,G
    1,R,K
    1,J,G
+#cp_heart
    1,R,K,G
    3
    6,R
