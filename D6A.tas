@@ -1,5 +1,5 @@
 # D6A UJ 18x
-RecordCount: 10840
+RecordCount: 11179
 
 console load 6
    1
@@ -700,6 +700,7 @@ AnalogMode, Ignore
    1,D
    1,L,D
   11,R,D
+#1:30.933(5349)
    1,R,K,G
    3,R,J,G
    1,R,K
@@ -711,6 +712,7 @@ AnalogMode, Ignore
 
 #lvl_15
 #0x
+
    4,R,K
   22,R
    3,L,D,J
@@ -742,44 +744,53 @@ AnalogMode, Ignore
    1,R
    1
    1,R,K,G
-   1,R,J,G
-   8,R
+   6,R,J,G
+   3,R
   40
+
 
 #lvl_17
 #1x
-   4,R
-   1,L,K,G
-   1
+   1,R
+   2,R
+   1,R,J
    2,R
    1
-  24,R,D
-   4,R
-   1
-   1,R,J,G
-   2
-   6,R
-   3,R,D
-   6,R,J
-  11,R
-  11,R,D
-   2,L,D
-   2,L
-   1,J
-   6,K,G
-   6,R,K
-   4,R
-   3
+   8,R
+   9,D
+   1,R,D
+   7,D
+   7,R,D
+   1,D
+   1,R,D
+   1,D
+   9,R,D
+   2,D
+   1,R,K,G
    1,J,G
-   8,L,J
-   3,R,J
-   8,R,K,G
+   1,R,J
+   1,R,J
+   5,R,K,G
+   5,R
+   1,R,K
+   1,L,K
+   6,J,G
+   6
+   5,R
+   1,K
+   7,J
+   5,R,J
+  12,K
+   2
    1,J
-   7,L,J
-   1,L,K,G
-   4,R,K
-   9,L,K
-   7,L,J,G
+   1,K
+   7,R,K
+   1,J
+   6,L,J
+   7,L
+   2,L,J
+   1,L
+   1,L,J,G
    3,R,J
    1,L
    1,K,G
@@ -2329,4 +2340,4 @@ EndRepeat
    1,D,J
   18
 
-ChapterTime: 5:34.628(19684)
+ChapterTime: 5:34.441(19673)
