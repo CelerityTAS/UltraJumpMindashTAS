@@ -1,5 +1,5 @@
 # D3HC UJ 11x
-RecordCount: 8745
+RecordCount: 8862
 
 Set ExtendedVariantMode.EveryJumpIsUltra true
 console load 3
@@ -219,69 +219,33 @@ Read, D3A, Start, lvl_12-x
   40
 
 Read, D3A, lvl_09-d, lvl_02-c
-
+# C1
 #lvl_02-c (0)
-   8,L
-   1,L,J
-  20,L
-   3,L,J
-   1,J
-   1
-   1,K,G
-   1,L,J,G
-  10,L
-   8,L,J
-   5,L
-   1,L,J
    9,L
-   3,L,J
-   5,L
-   1,L,J
+   1
+   4,L,D,J
+   7,L,K,G
   11,L
-   3,L,J
-   5,L
-   1,L,J
-  11,L
-   3,L,J
-  17,L
-   2
-   5,J
-   2,L,J
-   1,J
-#    5,L,J
-#    1,L,K,G
-#    1,K
-#    1,K
-#    3,L,K
-#    1,L,K
-#   40
-#    1,K
-#    2,L,K
-#    1,L,K
-#    1,R,K
-#    1,R,J,G
-#    5,L,J,G
-#    1
-#    4,L
-#  300,L,J
-
-   1,L,J
+   1
+   1,L,D,J
+  14,L
+   1
+   9,L,J
+   1
    4,L
-   1,L,K,G
-   7,L
+   8,L,J
+   3,L
+   1,K,G
+   3,L,K
   40
 
 #lvl_01-c
-   1,L
-   1,L,K
-   3,L
-   3,L,D
-   2,L,J
-   5,L
-   3,L,J
-  17,L,K,G
+   9,L,K
+   7,L
+  19,L,G
+   1,K,G
    1,L,J,G
-   1,J
+   3,J
    2,R,J
    2,L,J
    1,L,K,G
@@ -289,22 +253,31 @@ Read, D3A, lvl_09-d, lvl_02-c
   10,L
    1
    3,L,K
-   6,L
-   9,L,J,G
+   4,L
+   3,L,J,G
+   1,J
+   1,R,J
+   1,L,J
    3,R,J
    3,L,J
    1,L,K,G
+   1,L,J,G
   19,L
-  13,L,D
-   7,R
-   7,L
-  14,L,K,G
+   8,L,D
+   1,D
+   1,L,D
+   1
+   4
+   5,R
+   4
+   5,L
+  10,L,K,G
    1,K
-  12,L,J,G
-  12,K
+  12,J
+   7,K
    2,J
  257
-# cassette
+# C2
    1,J
  123
    8,R
@@ -356,15 +329,21 @@ Read, D3A, lvl_09-d, lvl_02-c
 # key-cycle
 # moving the cycle to next room will save time
   19
-   6,R
+   1,L
+   1
+   1,L
+   1
+   5,R
+   1,D
    1,J
-   1,K,G
+   1,R,K,G
    1,R,J,G
-  11,R
-   6,R,J
+   1,R
+   6,R,K,G
+   7,K
   40
 #lvl_04-c
 
 Read, D3A, lvl_04-c (1)
 
-ChapterTime: 4:43.356(16668)
+ChapterTime: 4:39.684(16452)
