@@ -1,33 +1,45 @@
 #Open the file creation screen and select "Begin"
 #After that, you can start the TAS
 
+
+# 7x in 1A
+# 2x in 3A
+# 1x in 4A
+# 5x in 5A
+# others:
+# 2A and 6A are bad
+# 3B is 0+9x
+# 4B is 16x
+
 Read,StartFullGameFile
 
 Read,Prologue,Start
 
 Read,LoadANoCollects,Prologue
 
-Read,1H,Start
+Read,D1H,Start
 
 Read,LoadA
 
-Read,2H,Start
+Read,D2A,Start
 
 Read,LoadA
 
-Read,3H,Start
+Read, D3HC, start, C1
+Read, D3A, lvl_02-c
+
+Read, LoadA
+
+Read, D4A, Start, lvl_b-02
+Read, D4HC, lvl_b-02 (0)
 
 Read,LoadA
 
-Read,4H,Start
+Read,D5H,Start
 
 Read,LoadA
 
-Read,5A,Start
-
-Read,LoadA
-
-Read,6A,Start
+Read,D6A,Start
 
 Read,LoadANoCollects,0,Summit
 #Summit
@@ -37,11 +49,11 @@ Add 29
   32
 Add 1
 
-Read,7A,Start
+Read,D7A,Start
 
 Read,LoadCoreFromSummit
 
-Read,8A,Start
+Read,D8A,Start
   59
    1,J
  196
@@ -55,4 +67,4 @@ Read,LoadA,0,control
    1,L
 Read,LoadJournal
 
-FileTime: 22:26.383(79199)
+FileTime: 33:36.744(118632)
