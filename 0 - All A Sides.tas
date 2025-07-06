@@ -2,14 +2,17 @@
 #After that, you can start the TAS
 
 
+# cost for hearts:
 # 7x in 1A
+# 3x in 2A
 # 2x in 3A
 # 1x in 4A
 # 5x in 5A
-# others:
-# 2A and 6A are bad
-# 3B is 0+9x
-# 4B is 16x
+
+# other hearts:
+# 6A is bad
+# 3B is 0 for cassette and 9x 3B
+# 4B is 0 for cassette and 16x 4B
 
 Read,StartFullGameFile
 
@@ -17,11 +20,11 @@ Read,Prologue,Start
 
 Read,LoadANoCollects,Prologue
 
-Read,D1H,Start
+Read,D1A,Start
 
-Read,LoadA
+Read,LoadANoCollects
 
-Read,D2A,Start
+Read,D2H,Start
 
 Read,LoadA
 
@@ -67,4 +70,4 @@ Read,LoadA,0,control
    1,L
 Read,LoadJournal
 
-FileTime: 33:36.744(118632)
+FileTime: 33:33.803(118459)
