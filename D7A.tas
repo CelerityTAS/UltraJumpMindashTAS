@@ -1,9 +1,9 @@
-RecordCount: 12701
+RecordCount: 12752
 
 # 7A UJ 115x (R)
 # -52x Maingame
 # Drafted by Gorb Appreciator
-# Improvements by: Alexa, Madstraw, blur
+# Improvements by: Alexa, Madstraw, blur, CelerityTAS
 
 #console load 7 3088 -1768
 #play,500M,37
@@ -1216,8 +1216,6 @@ EndRepeat
    1,J
   40
 
-
-
 #lvl_d-01
 #1x
 # You can save 2-3 frames here just by syncing the weird jumpthrough thing faster. I couldn't be bothered because syncing it twice (the first time I was too quick and hit the dust bunny) was already enough to make me annoyed.
@@ -1288,40 +1286,27 @@ EndRepeat
    5,R,K
    5,R
    2,R,J
-  28,R,D
+  20,R,D
+   4,D
+   1,J
    1,R,J
-  12,R
+   1,R,K,G
+   9,R
   40
 
 #lvl_d-01b
 #0x
-   2,R
-   6,R,J
-   5,J
-  12,L,K,G
-  10,J,G
-   1,K
-   7,J,G
-   5,R,J
-   2,L,J
-   1,K
-   5,J,G
-   2
    3,R
-   1,R,J
-  14,R
-   1,L
-   1,R
-   5,L
-   1,J
-   7,K,G
-   5,R,K
-   1,K
-  33,R,K
-  12,R,D
-   1,R
-   1,D
+  15,R,J
    1
+  13,R,J
+   4,R,K,G
+   1,L,J,G
+   5,R,J
+  23,R
+   3,D
+   2,R,D
+   2
    1,R,J,G
    1,R,K,G
    9,R
@@ -1558,7 +1543,6 @@ EndRepeat
   16,R,J
   34,R,X
    4,R,D
-###
    1,R,J
    5,R
    3,R,J
@@ -2470,7 +2454,6 @@ EndRepeat
    1,R,J
    7,R
   14,R,J
-#5:19.651(18803)
    6,R,K,G
    1,R,J,G
    4,L,J
@@ -4270,4 +4253,4 @@ AnalogMode, Ignore
    1,D,J
   18
 
-ChapterTime: 9:10.766(32398)
+ChapterTime: 9:09.440(32320)
