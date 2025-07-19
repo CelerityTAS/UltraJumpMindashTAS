@@ -1,4 +1,4 @@
-RecordCount: 13029
+RecordCount: 13131
 
 # 7A UJ 115x (R)
 # -52x Maingame
@@ -1526,25 +1526,24 @@ EndRepeat
    1,R,K,G
   55,R,D
   26,R,J
-  36,R,U,X
-  10,R,D
-  16,R,J
-  34,R,X
-   4,R,D
+  15,R,U,X
+  33,R
+   1
+   4,R,X
+  11,R,J
+  30,R
    1,R,J
-   5,R
-   3,R,J
-  22,R
+  21,R
    1,R,J
-   3,R,K,G
+   4,R
+   1,R,K,G
   11,R
   43
 
 #lvl_d-09
 #1x
-   2,R
-   2
-   3,J
+   4,R
+   3,R,J
    6,R
   26
    3,L
@@ -1618,7 +1617,7 @@ EndRepeat
 
 #lvl_d-11
 #2x
-# Lots of cycle slowdowns in the first section. A fully optomized climb misses the cycle byabout 10 frames (I'm not exactly sure, this is an estimate)
+# Lots of cycle slowdowns in the first section. A fully optimized climb misses the cycle by about 10 frames (I'm not exactly sure, this is an estimate)
    5,R,J
   17,R,D
   16,L,D
@@ -1644,40 +1643,24 @@ EndRepeat
    4,L
   18,L,D
   15,L,J
-### Demojump Attempt
-# Doesn't seem possible
-#   80,D
-#   19,R,D
-#    1,R
-#    1,R,D
-#    1,J,G
-#    1
-#    1,L
-#    1,R,J,G
-#    2,R,K,G
-#   14,R
-#    1
-#    1,R
-#    1,R,J,G
-#    6,R,K,G
-#    6,R
-#   23,R,J
-###
-  79,R
-  73,R,U,Z
-   1,J,G
-   1,R,J
-   1,L,J
-   1,R,K,G
-  10,R,J,G
-   6,R
+  77,D
+   1,R,D
+   1,D
+  15,R,D
+   4,R
    1
-   1,R
+   1,D
    1,R,J,G
-   1,R,K,G
-# Goofy ahh looking dcb. The dust bunny doesn't even come that close but it looks hilarious when you watch it in full speed
-  11,R
-  59,L
+   5,R,K,G
+   6,R
+  16,R,K
+  18,R,U,X
+   1,J,G
+   4,R,K,G
+  13,R
+  50,L
+   8
+   9,L
   34,L,Z
  216
    1,S
@@ -4241,4 +4224,4 @@ AnalogMode, Ignore
    1,D,J
   18
 
-ChapterTime: 9:08.403(32259)
+ChapterTime: 9:07.927(32231)
