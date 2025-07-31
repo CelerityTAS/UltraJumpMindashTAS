@@ -4,6 +4,7 @@ Ayalyn
 blur
 CelerityTAS
 Energy
+Fistashka
 GorbAppreciator
 Jade5
 Madstraw7
