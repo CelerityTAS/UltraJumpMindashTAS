@@ -1,12 +1,16 @@
-RecordCount: 1857
+# D1B UJ 3x
+RecordCount: 1900
 
 console hard 1
    1
+
+Set ExtendedVariantMode.EveryJumpIsUltra true
 
 #Start
   88
 
 #lvl_00
+#0x
    5,R
    1,R,K
   13,R
@@ -42,6 +46,7 @@ console hard 1
   40
 
 #lvl_01
+#0x
    1,R,K,G
    7,R
    1,L,K
@@ -62,6 +67,7 @@ console hard 1
   40
 
 #lvl_02
+#0x
    2
    2,R
    1,R,J,G
@@ -98,6 +104,7 @@ console hard 1
   40
 
 #lvl_02b
+#0x
   34,R
   21,K
    4,R,G
@@ -123,6 +130,7 @@ console hard 1
   40
 
 #lvl_03
+#0x
    3,R
    1,K,G
   10,R,K
@@ -149,6 +157,7 @@ console hard 1
 
 
 #lvl_04
+#0x
    3,R,J
   31,R
    8
@@ -181,6 +190,7 @@ console hard 1
   40
 
 #lvl_05
+#1x
    2,R
   14,K,G
   39,R,U,G
@@ -191,66 +201,52 @@ console hard 1
   31,L,D
    2,R,D
    5,R
-  39,R,Z
-   1,R,G
+  38,R,Z
+   1
+   1,G
   36,U,G
-  11,K
-   1,L,K
-   2,L,J,G
-   1,K
+   5,K,G
+   6,R
+   1
+   5,R
+   2
+   1,R,J,G
+   1,R,K,G
+   1,J
   40
 
 #lvl_05b
-  11,L
-  11,L,K,G
-   1,J,G
-   1,R,J
-   1,L,J
-   5,K,G
-  22,R,K
-   1,R,J
+#1x
+   8,R,J,G
    5,R
-   4,R,K
-   6,R
-   2,R,K
-   1,R,J,G
-  11,R
-   3
-   4,R
-   3,R,K,G
-  26,R,D,K
-   1,R,D
-   5,D
-  16,R,Z
+   7,R,J
+  16,R
+   9,U,X
+  16,R,J
+   2,L,J
+  12,L,K,G
    1,J
-  24,L,J
+   7,K,G
+   9,R,K
+   1,L,K
    1,J
-   1
-   1,G
-   1,L
-   1
-   1,L
-   1,G
-   1
+   5,K,G
    1,R,K
-  20,R,J
-   3,L,K,G
-   2,L
-   3,L,K
-   5,L
-   7,U,G
-   1,G
-   1,U,G
+   1,J
+   5,K,G
+   1,L,K
+   1,J
+   5,K,G
    1,R,K
-  20,R,J
-  12,R,K
-  12,L,J
-   8,R,K
-   7,L,J
-   5,R,K
+   1,J
+   5,K,G
+   1,L,K
+   7,J,G
+   6,R,K
   40
 
 #lvl_06
+#0x
   27,R
   10
    5,R
@@ -277,6 +273,7 @@ console hard 1
   40
 
 #lvl_07
+#0x
    8,R
    1,R,K
    8,R,G
@@ -331,6 +328,7 @@ console hard 1
   40
 
 #lvl_08
+#0x
    2
    2,R
    3,R,K,G
@@ -384,6 +382,7 @@ console hard 1
   40
 
 #lvl_08b
+#0x
   35,R,G
    4,K,G
    6,L,K
@@ -436,6 +435,7 @@ console hard 1
   40
 
 #lvl_09
+#0x
    2,R
    1,R,K,G
   11,R
@@ -486,6 +486,7 @@ console hard 1
   40
 
 #lvl_10
+#0x
    8,L
    2,K
    8
@@ -528,6 +529,7 @@ console hard 1
   40
 
 #lvl_11
+#0x
   13,L
   17,L,K
    4,L,G
@@ -633,6 +635,7 @@ console hard 1
   40
 
 #lvl_end
+#1x
    2
    2,R
    1,R,K,G
@@ -714,4 +717,4 @@ console hard 1
    1,O
   31
 
-ChapterTime: 1:29.165(5245)
+ChapterTime: 1:26.785(5105)
