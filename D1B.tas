@@ -1,5 +1,5 @@
 # D1B UJ 3x
-RecordCount: 1900
+RecordCount: 2002
 
 console hard 1
    1
@@ -191,24 +191,32 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
 
 #lvl_05
 #1x
-   2,R
-  14,K,G
-  39,R,U,G
-   1,K
-   6,R,K
+   1,J,G
+   8,R
+   2,L
+  10,R,J,G
+  43,R,U,G
    3,R
-   2
-  31,L,D
-   2,R,D
-   5,R
-  38,R,Z
-   1
+   1,J,G
+   1,R,J
+   9,R
+   1,L,D
+  14,R,D
+   7,D
+   8,R,D
+   1,D
+   1,G
+  35,R,Z
+   3,R
    1,G
   36,U,G
-   5,K,G
-   6,R
-   1
+   7,K,G
+   2
    5,R
+   1
+   4,R
+   1
+   1,R
    2
    1,R,J,G
    1,R,K,G
@@ -223,8 +231,9 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
   16,R
    9,U,X
   16,R,J
-   2,L,J
-  12,L,K,G
+   3,L,J
+  11,L,K,G
+   2
    1,J
    7,K,G
    9,R,K
@@ -717,4 +726,4 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    1,O
   31
 
-ChapterTime: 1:26.785(5105)
+ChapterTime: 1:26.955(5115)
