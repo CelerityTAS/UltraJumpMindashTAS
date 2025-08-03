@@ -1,5 +1,5 @@
-RecordCount: 10902
-#D7B 150x
+# D7B UJ 148x
+RecordCount: 10927
 
 console hard 7
    1
@@ -1369,7 +1369,7 @@ EndRepeat
   40
 
 #lvl_f-03
-#9x
+#8x
    8,R
    2,R,K
    4,K
@@ -1392,9 +1392,11 @@ EndRepeat
    5,K,G
   35,L,K
   14,L,X
-   3,L,K,G
-  10,L
-  13,L,U,X
+   1,K,G
+   5
+   8,L
+   4,L,J,G
+   9,L,K
   41
   10,L
   12,K,G
@@ -2303,4 +2305,4 @@ Repeat 36
 EndRepeat
    2
 
-ChapterTime: 6:00.842(21226)
+ChapterTime: 6:00.910(21230)
