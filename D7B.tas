@@ -1670,6 +1670,9 @@ EndRepeat
 #lvl_g-01
 #20x
   69,D
+## Spinner Cycle
+   0
+##
   13,L
   53,L,K
   15,L,U,Z
