@@ -1,5 +1,5 @@
-# D8B UJ 22x
-RecordCount: 3083
+# D8B UJ 21x
+RecordCount: 3100
 # This record count is ~2000 less than the actual one because I accidentally messed it up
 
 Set ExtendedVariantMode.EveryJumpIsUltra true
@@ -672,135 +672,76 @@ console hearts
    1,R
    2
    1,R,K,G
-   1,R,J,G
-   9,R
-   1,R,J
-   1
-   5,R
+   2,R,J,G
+   7,R
+   6,R,J
+   1,R,K
+   2,J
   40
 
 #lvl_b-04
-#1x
-# Maybe there is some faster way to do this room but I could not find one
-   1
-   1,R
-   1
-  14,R
-  19,R,J,G
-   1
-   1,L
-   1,R,G
-   1,G
-   1
-   1,L
-   1,R,G
-   1,G
-Repeat, 8
-   1
-   1,G
-EndRepeat
-   8,G
-   1
-   1,J
-  22,R,J
-   2,J
-   1,R,K,G
-   2,R,J,G
-  15,R
-   4,R,J,G
-   5,R
-   3,R,J
-  38,R
-  20,G
-   1
-   1,J
-   8,R,J
-   2,R
-   3
-   4,R
-   1
-   1,R,J
-   5,R
-   2
-   1,R,J,G
-  68,R,K,G
-  11,J,G
-   1,L,J
+#2x
+   3,J
    1,K
-  22,R,K
-   1,R
+  24,L,K
+  11,J,G
    1,R,J
-   4,K,G
-   1
+   1,K
+  18,L,K
    1,L
-   1,J
-  12,R,J
-   5,R
-   1,R,J
-  19,L,K
+   1,G
+   9,R,J
+  23,R,K
+  14,R,X
+   1,R,K,G
+   4,R
+   5,R,U,C
+   1,L,K,G
+   1,L
+   2,L,K
+   6,R,K
+   1,R
    1,R,K
-  12,R,J,G
-  11,R,K,G
-   3,R
-   5
-   7,L
-   5,L,Z
-   1,R,J
+  11,R
+   1,R,K,G
+   1,R
+   4,L
+   6,R
    2,R,K,G
-   9,R
+  17,R
   40
 
 #lvl_b-05
-#4x
-# 110% certain there is timesave here, but I never want to touch this room again
+#2x
+   8,R
+  13,R,J
+   3,L
+   5,R
+   1,R,J
    9,R
-  25,R,J
-  15,R,U,X
-   6,R
+   1,L,D
+  10,R,D
+   3,R
+  15,R,U,Z
   15,R,U,C
-  34,R
-   9,R,J
-  31,R
-   5
-  35,R,D
-  10,J
-  10,R
-   8,R,J
   25,R
-  18,L
-  22
-  15,J
-   1,R,J
-   2,J
-   1,R,J
-   1,J
-   5
-   2,R
-   3
-   6,D
-   1
-   9,R
-   4
-  38,R,J
-  45,R,U,Z
-  50,R,U,X
-  20,R,J
-   2,J
-  32,R,J
-   7,R,K
-   7,R
   10,R,J
-  11,R,K
-   1
-   1,R
-   1
-   1,R
-   2
+   9,R
+   2,R,J
+  14,R
+  13,R,J
+  25,R
    2,R
-   2
+   1
+   7,R,J
+   1,R
+   1
+   5,R
+   2,J
    1,R,K,G
    1,R,J,G
-  10,R
+   8,R
+   2,R,K
    1,R,J
    2,R
   40
@@ -1257,5 +1198,5 @@ EndRepeat
    2,R,J
  147,R,U,X
 
-ChapterTime: 2:27.118(8654)
-# 22 dashes
+ChapterTime: 2:17.173(8069)
+# 21 dashes
