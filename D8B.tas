@@ -1,5 +1,5 @@
-# D8B UJ 21x
-RecordCount: 3100
+# D8B UJ 20x
+RecordCount: 3313
 # This record count is ~2000 less than the actual one because I accidentally messed it up
 
 Set ExtendedVariantMode.EveryJumpIsUltra true
@@ -14,7 +14,7 @@ console hearts
 #0x
 # Spinner cycle (for b-02)
    1
-
+#
    6,R
    1,R,J
   14,R
@@ -284,11 +284,9 @@ console hearts
   21,R,K
   12,R
    1,R,J,G
-   5,R
-   2,R
+   7,R
    1,R,J
-   5,R
-   1,R
+   6,R
    1,J
    7,R,J
    1,R
@@ -730,8 +728,7 @@ console hearts
    2,R,J
   14,R
   13,R,J
-  25,R
-   2,R
+  27,R
    1
    7,R,J
    1,R
@@ -1031,7 +1028,7 @@ EndRepeat
   12,J,G
   11,K,G
   47,L,J
- 193
+ 193,U
   40
 
 #lvl_c-05
@@ -1064,8 +1061,7 @@ EndRepeat
    1,R,J,G
    9,R,K,G
   30,R,D
-   3,R
-   1,R
+   4,R
    1,R,J
    3,R
    1
@@ -1138,7 +1134,7 @@ EndRepeat
   40
 
 #lvl_c-07
-#1x
+#0x
   14,R
   24,R,J
    1,J
@@ -1163,40 +1159,58 @@ EndRepeat
    2,R,J
    6,J
    5,R,J
-  12,K,G
-   1,J,G
-   7,R,J
-   4,R
-   1,L
-   1,L,J
-   9,L
-# I wouldn't be suprised if there was some way to save a dash in this speed chain. I tried getting a dashless start but because of the super long hallway and low gravity you aren't able to build up much speed. The cassette cycles are also evil.
-   5,L,Z
-   1,R,J
+   1,K,G
+   1,R,K
+   1,L,K
+   1,J
+  20,R,J
+   1
+   1,R
+   2
    1,R,K,G
-  10,R
+   1,R,J,G
+   9,R
+   1,R,J
+   7,R
   40
 
 #lvl_space
 #2x
-   8,R
+# I tried getting a dashless start but because of the super long hallway and low gravity you aren't able to build up much speed. The cassette cycles are also evil.
+  14,R,D
    1,R,J
-  21,R
-   1
-   2,R
-   6,R,J
+  24,R
+   1,R,J
+  24,R
    1,J
-   9,R,D,X
-   1,L,J,G
-  21,R
+  29,R
+   7
+   3,L,J
+   6,J
+  11
+   1,J
+   1
+  18,L,D
+   1,L
+   2,L,D
+   5,L,Z
+   1,R,J
+   1,R,K,G
+   5
+   5,R
+   1,R,J,G
+   2,R
+   5
+  10,R
    3
-   1,J,G
-   2,R,J
+   3,R,J,G
    1,L,K,G
-  10,R,K
-  45,R
-   2,R,J
- 147,R,U,X
+   2,R,K
+  18,R
+   5,R,J
+  22,R
+  11,R,X
+ 135,L,D
 
-ChapterTime: 2:17.173(8069)
-# 21 dashes
+ChapterTime: 2:18.839(8167)
+# 20 dashes
