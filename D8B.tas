@@ -1,6 +1,5 @@
 # D8B UJ 19x
-RecordCount: 3535
-# This record count is ~2000 less than the actual one because I accidentally messed it up
+RecordCount: 3708
 
 Set ExtendedVariantMode.EveryJumpIsUltra true
 console hard 9
@@ -13,7 +12,7 @@ console hearts
 #lvl_00
 #0x
 # Spinner cycle (for b-02)
-   1
+   0
 #
    6,R
    1,R,J
@@ -230,106 +229,57 @@ console hearts
   86,R
   83,R,J
   26,R
-  26,R,D
-   2,D
-   2,R,D
-   1,D
-   1,R,D
-   1,D
-   3,R,D
-   6,J
-   7,R,J
-   2,J
+  46,R,D
+   2,J,G
+   1,L,J
+   1,R,K,G
+   4,R,J,G
+   8,R
+   1,R,J
+   3,R
+   1
+   1,R
    1,R,K,G
    1,R,J,G
-   9,R
-   1,R,J
-  40
+  10,R
+  40,K
 
 #lvl_a-04
 #0x
 # Incredibly annoying room. I just want to note that I found the demojump through the spinners using the core blocks before the recent maingame mindash improvement that does something very similar, which I'm very proud of.
-   4
-   1,R
-   1,R,J
-   1
-   2,R
-   1,R,J
-  14,R,G
-   2
-   1,L
-   1,R,G
-   9,U,G
-   2,G
-   1,U,G
-   2,G
-   1,U,G
-   2,G
-   2,U,G
-   2,G
-   2,U,G
-   1
-   1,J
+  10,R,K
    4,R,J
    5,R
-  13,R,J
-   2,J
-   1,R,K,G
-   3,R,J,G
-   5,R
-   3,R,J
-  18,R
-  14,U,G
-  34,R,J,G
-  21,R,K
-  12,R
-   1,R,J,G
+   9,R,J
+   8,R
+   1
+   2,R,D
    7,R
-   1,R,J
-   6,R
-   1,J
+   4,R,D
+   1,G
+   1,K,G
+   1,L,K
+   5,R,J,G
+   5,R
    7,R,J
-   1,R
-  29,L
-   2,L,D
-   1,J,G
-   1,L
-   1,R
-   1,L,J,G
-   9,L,K,G
-   7,L
-   1
-   1,L
-   1,L,J,G
-   5,L,K,G
-  15,L
-   1,R
-   1,L
-   1,R,J
-  20,R
-   1,L
-   1
-   1,L
    1,J
-   4,R,J
-   5,R
-  13,R,J
-   2,J
-# Getting the refill here is probably slower than just refilling stamina on top of the respawning core block, but I am too lazy to redo
-   1,R,K,G
-  10,R,J,G
-   1
-  14,R
-   1,R,J,G
-   1,R,K,G
-   5,R
    2,R,J
-   2,R
-   1,R,J
-  24,R,G
-  56,U,G
+   1,R
+   1
+   1,R,K,G
+   7,R,J,G
+   6,R
+   3,R,J
+   7,R
+   1,R,J,G
+  28,R
+   1,D
+   1
+  57,U,G
   21,J,G
-   6
+   1,L
+   1,R,D
+   4
    1,G
    3
    1,G
@@ -1222,5 +1172,5 @@ EndRepeat
   11,R,X
  135,L,D
 
-ChapterTime: 2:19.740(8220)
+ChapterTime: 2:15.507(7971)
 # 19 dashes
