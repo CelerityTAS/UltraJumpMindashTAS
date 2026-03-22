@@ -1,12 +1,11 @@
-RecordCount: 842
+# D6C UJ 6x
+RecordCount: 973
 
 console rmx2 6
    1
-
-# 7x, -5x normal mindash
-
 Set ExtendedVariantMode.EveryJumpIsUltra true
 
+# 6x, -4x normal mindash
 #Start
   69
 
@@ -60,31 +59,61 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
   40
 
 #lvl_01
-#3x
+#2x
    7,R
   10,R,J
   47,R,D
-  20,L,D
-   6,D
+  13,L,D
+   5,D
+   1,L,D
+   3
+   2,L
+   1,D
+   1,R
   15,R,X
-  44,L,D
-   5,F,257.1
-  25,L,Z
-  18,D
-   1,R,D
-   1
+  14
+   1,L
+   4
+AnalogMode,Precise
+  27,L,U
+   6,F,340.112
+   1,F,339.409
+  15,F,311.989
+   1,F,311.993
+  11,F,12
+   4,F,13.196
+   1,F,11.015
+  11,F,311
+  19,F,272.498
+   1,F,267.774
+  11,F,208
+  27,F,178.471
+   1,F,173.903
+   7,F,158
+  20,R,D
+  17,D
    2,R
+   4,R,D
+   3,R
+   1
+   9,R
    1,R,D
-  55,R
-   1,L,U
-  42,F,333
-  10,L
-   7,L,D
-  20,D
-  15,R,D
-  32,L,D
-  12,D
-   4,L,D
+  10,R
+AnalogMode,Square
+  27,F,315
+AnalogMode,Precise
+   4,F,335.274
+  36,F,334
+  11,F,270
+  11,F,215
+  12,F,185.312
+  18,F,145.453
+  11,F,205
+  10,F,240
+   8,F,180
+AnalogMode,Ignore
+  10,R
+   5
   15,R,D,X
   45,R,D
    1,R,J
@@ -174,4 +203,4 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
   21,R,X
  135,R,D
 
-ChapterTime: 0:31.484(1852)
+ChapterTime: 0:33.184(1952)
