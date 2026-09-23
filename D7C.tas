@@ -1,4 +1,4 @@
-RecordCount: 269
+RecordCount: 273
 
 console rmx2 7
    1
@@ -230,12 +230,6 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    1,R,J,G
    9,R
   15,R,U,X
-Repeat, 48
-   2,R
-   2,L
-EndRepeat
-   2,R
-   1,O
- 196
+ 135,R
 
 ChapterTime: 0:46.325(2725)
