@@ -1,5 +1,5 @@
-# D7C UJ 37x
-RecordCount: 698
+# D7C UJ 33x
+RecordCount: 969
 
 console rmx2 7
    1
@@ -86,7 +86,7 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
   40
 
 #lvl_03
-#26x
+#22x
   69
    6,R,J
    9,R
@@ -144,77 +144,83 @@ Set, ExtendedVariantMode.EveryJumpIsUltra, true
    9,R,J
   16,J
    1,L
-   1
-   1,L
+   3
    1,G
-   9
-  22,R
+   1
+   2,J
+   1
+   1,J
+   1,G
+   1
+   1,J
+   1
+Repeat, 5
+   1,G
+   2
+   1,J
+EndRepeat
+   1,G
+   1,J,G
+   2,L,J
+   3,J
+   3,R,J
+  14,L,D
+   4
+   5,L
+  15,L,D,X
+  12,L,D
+  10,L
+   3,D
+   7
+   2,D
+  12,L,Z
+   2,R,J
+   1,K,G
+   1,K
+   1,R,K
+   1,L,J,G
+  14,R,J
+  13,R,U,X
+   1,L
+   1,K,G
   15,R,D,X
-   7,R
-   3,R,D
-  14,R,X
-   9,R,J,G
-  25,R,D
-  24,R
-   3,R,J
-   5,R
-   3,R,J
-   2,R
-  15,R,U,Z
-  37,R
-  15,R,X
-  22,R
-  18,R,X
-  14,R
-  15,R,U,X
+   6,R
+   1
    1,R
-  18,R,Z
+  10,R,K
+  13,R
+  43,R,U,Z
+  37,R,U,X
+  20,R,Z
+   3
    1,R
-  15,R,Z
-   1,R
-  18,R,U,X
-  37,R
-  15,R,U,X
-  21,R
-  15,R,X
-  11,R
   15,U,X
-   2,L
-   5
-  17,R
+   1,L
+   4
+  10,R
+  11
   15,R,Z
-  10,R
-  15,R,Z
+  14,R
+  19,R,Z
    1
-   8,R
-   1,R,J,G
-  12,R
-   1,R,J
-  28,R,D
-   1,R,J
-  15,R
-   1
-   4,R
-   2
-   1,R,J
-  10,R
-   2
-   1,R,J,G
-   1,R,K,G
-  12,R
-   1,R,J
-  16,R
-   1,R,J
-   5,R
-   4,R,J
-   2,R,K,G
-   5,R
-   7,R,K
-   1,R,J
-  10,R
+   1,K,G
    1,R,J,G
    9,R
+   1,R,J
+  30,R,D
+   2,R,J
+   1,R,K,G
+   7,R
+   6,R,J
+   1,R,K
+   6,R
+   4,R,J
+   2,R,J,G
+   7,R
+   1,R,J
+   5,R
+   1,R,J,G
   15,R,U,X
  135,R
 
-ChapterTime: 0:42.245(2485)
+ChapterTime: 0:39.406(2318)
